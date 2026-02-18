@@ -7,7 +7,4 @@ The heart attack datasets were collected at Zheen hospital in Erbil, Iraq, from 
 The below data has been taken from kaggle and the description of the dataset can be found in the below link.
 https://www.kaggle.com/datasets/fatemehmohammadinia/heart-attack-dataset-tarik-a-rashid?resource=download
 
-## SQL Interview Practice
 
-If you're preparing for live-coding SQL interviews, see the advanced practice set here:
-- [SQL Interview Practice (Advanced)](sql_interview_practice.md)
