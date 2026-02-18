@@ -1,10 +1,54 @@
 # Data-Analysis-project
+Dataset Overview
 
-#Heart Attack Dataset
+This project analyzes a Heart Attack medical dataset collected at Zheen Hospital, Erbil, Iraq, between January 2019 and May 2019.
 
-The heart attack datasets were collected at Zheen hospital in Erbil, Iraq, from January 2019 to May 2019. The attributes of this dataset are: age, gender, heart rate, systolic blood pressure, diastolic blood pressure, blood sugar, ck-mb and troponin with negative or positive output. According to the provided information, the medical dataset classifies either heart attack or none. The gender column in the data is normalized: the male is set to 1 and the female to 0. The glucose column is set to 1 if it is > 120; otherwise, 0. As for the output, positive is set to 1 and negative to 0.
+The dataset is designed to classify whether a patient experienced a heart attack (positive) or no heart attack (negative) based on key clinical indicators.
 
-The below data has been taken from kaggle and the description of the dataset can be found in the below link.
-https://www.kaggle.com/datasets/fatemehmohammadinia/heart-attack-dataset-tarik-a-rashid?resource=download
+Objective
+
+The primary goal of this project is to perform exploratory data analysis (EDA) and build predictive models to classify heart attack risk using clinical biomarkers and patient data.
+
+Features (Attributes)
+
+The dataset includes the following variables:
+
+Age – Patient’s age
+
+Gender – Encoded as:
+
+1 = Male
+
+0 = Female
+
+Heart Rate – Beats per minute
+
+Systolic Blood Pressure
+
+Diastolic Blood Pressure
+
+Blood Sugar (Glucose) – Encoded as:
+
+1 = Glucose level > 120
+
+0 = Glucose level ≤ 120
+
+CK-MB – Creatine kinase-MB enzyme level
+
+Troponin – Cardiac biomarker level
+
+Output (Target Variable) –
+
+1 = Positive (Heart Attack)
+
+0 = Negative (No Heart Attack)
+
+Data Source
+
+The dataset was obtained from Kaggle:
+
+🔗 https://www.kaggle.com/datasets/fatemehmohammadinia/heart-attack-dataset-tarik-a-rashid
+
+Please refer to the Kaggle page for detailed dataset documentation and licensing information.
 
 
