@@ -39,7 +39,7 @@ Guardrails ensure that we do not “buy” growth in a way that harms margin, ex
 
 - **Gross Margin % / Contribution Margin %**  
   - Requirement: should not materially decrease versus control beyond an agreed tolerance.
-- 
+
 ### 4. Network / Interference Diagnostic Metrics
 
 - **Share of Treated Neighbors per Customer**
