@@ -15,9 +15,7 @@ Measure the true incremental impact of a “Friends & Family” referral promoti
 #### 3.1 North Star Metric
 
 - **Incremental Profit per Customer (IPC)**  
-  \[
-  \Delta \text{Profit/Customer} = \overline{\text{profit}}_{T} - \overline{\text{profit}}_{C}
-  \]
+ 
   - Profit should include discount cost and variable costs (or contribution margin if available).
   - This is the single headline metric used to decide whether to scale the campaign.
 
@@ -28,16 +26,12 @@ Measure the true incremental impact of a “Friends & Family” referral promoti
 These are the main KPIs we want to improve:
 
 - **Incremental Revenue per Customer (ARPC lift)**  
-  - Definition: \(\overline{\text{revenue}}_{T} - \overline{\text{revenue}}_{C}\)
+ 
 - **Incremental Conversion Rate (CR lift)**  
-  - Definition: \(\overline{\text{converted}}_{T} - \overline{\text{converted}}_{C}\)
-- **Incremental Orders per Customer** (optional, if purchase frequency is important)  
-  - Definition: \(\overline{\text{orders}}_{T} - \overline{\text{orders}}_{C}\)
-- **Referral-Driven Revenue Share**  
-  - Definition: revenue from orders using a referral code ÷ total revenue  
-  - Interprets how much of the lift is coming via the intended referral mechanism.
 
-#### 3.3 Guardrail Metrics (Must Not Degrade)
+- **Incremental Orders per Customer** (optional, if purchase frequency is important)  
+
+ #### 3.3 Guardrail Metrics (Must Not Degrade)
 
 Guardrails ensure that we do not “buy” growth in a way that harms margin, experience, or operations.
 
@@ -45,35 +39,8 @@ Guardrails ensure that we do not “buy” growth in a way that harms margin, ex
 
 - **Gross Margin % / Contribution Margin %**  
   - Requirement: should not materially decrease versus control beyond an agreed tolerance.
-- **Average Discount Rate**  
-  - Requirement: ensure incremental revenue is not purely driven by excessive discounting.
-
-**Customer Experience / Brand Risk**
-
-- **Return / Refund Rate**
-- **Order Cancel Rate**
-- **Customer Support Contacts per 1,000 Customers** (or complaint rate)
-
-Requirement: these should not increase materially in the treatment group vs control.
-
-**Operational Health**
-
-- **Stockout Rate / Inventory Availability**
-- **Delivery SLA Breach Rate** (for e‑commerce orders)
-
-Requirement: avoid operational overload caused by the campaign.
-
-**Customer Quality (Short-to-Mid Term)**
-
-- **Repeat Purchase Rate** in a follow-up window (e.g., next 30–60 days) or an LTV proxy.
-
-Requirement: treatment should not attract only “one-time deal seekers” who never return.
-
----
-
+- 
 ### 4. Network / Interference Diagnostic Metrics
-
-These metrics are used to understand how network effects create bias in the naive A/B results. They are **diagnostic**, not the direct success criteria.
 
 - **Share of Treated Neighbors per Customer**
   - Definition: number of treated neighbors ÷ total neighbors.
