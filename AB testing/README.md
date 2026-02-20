@@ -21,7 +21,7 @@ Measure the true incremental impact of a “Friends & Family” referral promoti
   - Profit should include discount cost and variable costs (or contribution margin if available).
   - This is the single headline metric used to decide whether to scale the campaign.
 
-> If profit is not available in the dataset, use **Incremental Revenue per Customer (ARPC lift)** as a proxy North Star.
+
 
 #### 3.2 Success Metrics (Primary Outcomes)
 
