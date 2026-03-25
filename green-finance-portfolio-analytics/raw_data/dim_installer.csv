@@ -1,0 +1,51 @@
+installer_key,installer_id,installer_name,country,region,certification_level,status,onboarding_date,employee_count
+1,INS-000001,EcoSolutions BAV,Germany,Bavaria,Silver,Active,2022-05-06,13
+2,INS-000002,SmartWorks BER,Germany,Berlin,Bronze,Active,2022-01-23,2
+3,INS-000003,FuturePower NOR,Germany,North Rhine-Westphalia,Silver,Active,2022-01-14,13
+4,INS-000004,SmartEnergy HES,Germany,Hesse,Silver,Active,2022-08-18,14
+5,INS-000005,EnergySolutions VIE,Austria,Vienna,Silver,Active,2022-06-24,5
+6,INS-000006,SunInstall SOU,Netherlands,South Holland,Gold,Active,2023-01-25,25
+7,INS-000007,SunWorks BAV,Germany,Bavaria,Silver,Active,2022-10-02,3
+8,INS-000008,SmartPower BER,Germany,Berlin,Silver,Active,2022-07-05,13
+9,INS-000009,SunPower BER,Germany,Berlin,Gold,Active,2022-10-24,9
+10,INS-000010,GreenInstall LOW,Germany,Lower Saxony,Silver,Active,2022-07-06,7
+11,INS-000011,SunGroup BAD,Germany,Baden-Württemberg,Silver,Active,2022-12-16,12
+12,INS-000012,BrightEnergy BER,Germany,Berlin,Gold,Active,2023-04-19,43
+13,INS-000013,SolarPower NOR,Germany,North Rhine-Westphalia,Silver,Active,2023-01-29,15
+14,INS-000014,EcoGroup BAD,Germany,Baden-Württemberg,Silver,Active,2022-02-03,13
+15,INS-000015,CleanSolutions BER,Germany,Berlin,Silver,Active,2022-11-26,6
+16,INS-000016,SmartWorks BER,Germany,Berlin,Silver,Active,2022-05-15,11
+17,INS-000017,FuturePro NOR,Germany,North Rhine-Westphalia,Bronze,Active,2022-02-05,14
+18,INS-000018,BrightGroup BAV,Germany,Bavaria,Gold,Active,2022-06-13,7
+19,INS-000019,EnergyPlus HES,Germany,Hesse,Bronze,Active,2022-05-16,12
+20,INS-000020,EnergyInstall STY,Austria,Styria,Bronze,Active,2022-07-12,6
+21,INS-000021,EnergyPlus LOW,Germany,Lower Saxony,Platinum,Active,2024-01-10,14
+22,INS-000022,FutureGroup BAV,Germany,Bavaria,Bronze,Active,2022-03-18,4
+23,INS-000023,FutureTech NOR,Germany,North Rhine-Westphalia,Silver,Active,2023-02-03,11
+24,INS-000024,EnergyPower BAV,Germany,Bavaria,Gold,Active,2023-01-07,6
+25,INS-000025,CleanSystems HES,Germany,Hesse,Bronze,Suspended,2022-01-22,14
+26,INS-000026,GreenEnergy BER,Germany,Berlin,Silver,Active,2022-10-09,10
+27,INS-000027,EcoEnergy UPP,Austria,Upper Austria,Bronze,Active,2022-05-19,12
+28,INS-000028,SunPower LOW,Germany,Lower Saxony,Bronze,Active,2022-04-26,3
+29,INS-000029,EcoTech HES,Germany,Hesse,Silver,Active,2022-10-29,3
+30,INS-000030,PowerSystems VIE,Austria,Vienna,Gold,Active,2022-02-02,35
+31,INS-000031,GreenGroup BER,Germany,Berlin,Silver,Active,2022-10-04,11
+32,INS-000032,SunSystems LOW,Germany,Lower Saxony,Bronze,Churned,2022-02-18,8
+33,INS-000033,SolarSystems LOW,Germany,Lower Saxony,Silver,Active,2023-01-09,2
+34,INS-000034,EcoPower BAD,Germany,Baden-Württemberg,Bronze,Active,2022-01-28,10
+35,INS-000035,EcoSystems LOW,Germany,Lower Saxony,Gold,Active,2023-04-19,31
+36,INS-000036,FutureTech STY,Austria,Styria,Platinum,Active,2023-10-30,8
+37,INS-000037,CleanPower NOR,Netherlands,North Holland,Gold,Active,2023-05-13,28
+38,INS-000038,EnergyPro NOR,Netherlands,North Holland,Silver,Active,2022-07-19,6
+39,INS-000039,CleanSolutions BER,Germany,Berlin,Bronze,Active,2022-05-23,6
+40,INS-000040,SolarInstall BAV,Germany,Bavaria,Silver,Active,2022-10-05,2
+41,INS-000041,GreenTech LOW,Germany,Lower Saxony,Silver,Active,2022-09-29,10
+42,INS-000042,EcoWorks NOR,Germany,North Rhine-Westphalia,Platinum,Active,2022-03-11,10
+43,INS-000043,SmartSystems NOR,Netherlands,North Brabant,Gold,Active,2022-02-10,29
+44,INS-000044,EcoInstall HES,Germany,Hesse,Silver,Active,2022-05-14,5
+45,INS-000045,CleanInstall NOR,Germany,North Rhine-Westphalia,Silver,Active,2022-06-03,14
+46,INS-000046,SunSystems NOR,Netherlands,North Holland,Silver,Active,2022-10-16,10
+47,INS-000047,SunPower BAD,Germany,Baden-Württemberg,Gold,Active,2022-12-24,26
+48,INS-000048,EnergyGroup LOW,Germany,Lower Saxony,Bronze,Churned,2022-06-30,10
+49,INS-000049,GreenEnergy HES,Germany,Hesse,Gold,Active,2022-04-17,10
+50,INS-000050,EnergyGroup STY,Austria,Styria,Silver,Active,2022-05-20,5

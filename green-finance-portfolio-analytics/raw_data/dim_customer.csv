@@ -1,0 +1,2001 @@
+customer_key,customer_id,country,region,credit_score_band,acquisition_channel
+1,CUS-000001,Austria,Vienna,Fair,Direct Sales
+2,CUS-000002,Germany,Baden-Württemberg,Poor,Direct Sales
+3,CUS-000003,Germany,Lower Saxony,Fair,Installer Referral
+4,CUS-000004,Germany,North Rhine-Westphalia,Fair,Installer Referral
+5,CUS-000005,Austria,Styria,Fair,Online
+6,CUS-000006,Germany,Berlin,Poor,Online
+7,CUS-000007,Austria,Styria,Fair,Online
+8,CUS-000008,Germany,Baden-Württemberg,Poor,Partner Bank
+9,CUS-000009,Austria,Upper Austria,Good,Installer Referral
+10,CUS-000010,Germany,Hesse,Poor,Online
+11,CUS-000011,Germany,North Rhine-Westphalia,Poor,Installer Referral
+12,CUS-000012,Germany,North Rhine-Westphalia,Poor,Installer Referral
+13,CUS-000013,Austria,Upper Austria,Fair,Online
+14,CUS-000014,Germany,Berlin,Fair,Installer Referral
+15,CUS-000015,Austria,Vienna,Good,Installer Referral
+16,CUS-000016,Germany,North Rhine-Westphalia,Fair,Online
+17,CUS-000017,Germany,North Rhine-Westphalia,Good,Partner Bank
+18,CUS-000018,Germany,Baden-Württemberg,Poor,Marketplace
+19,CUS-000019,Germany,Berlin,Good,Partner Bank
+20,CUS-000020,Austria,Upper Austria,Poor,Installer Referral
+21,CUS-000021,Netherlands,North Holland,Fair,Marketplace
+22,CUS-000022,Germany,Hesse,Good,Partner Bank
+23,CUS-000023,Germany,Hesse,Poor,Installer Referral
+24,CUS-000024,Austria,Vienna,Good,Partner Bank
+25,CUS-000025,Germany,Hesse,Fair,Marketplace
+26,CUS-000026,Austria,Vienna,Good,Installer Referral
+27,CUS-000027,Germany,Baden-Württemberg,Fair,Partner Bank
+28,CUS-000028,Germany,Baden-Württemberg,Good,Partner Bank
+29,CUS-000029,Germany,Berlin,Good,Installer Referral
+30,CUS-000030,Germany,Lower Saxony,Fair,Direct Sales
+31,CUS-000031,Germany,Baden-Württemberg,Good,Direct Sales
+32,CUS-000032,Germany,North Rhine-Westphalia,Good,Online
+33,CUS-000033,Germany,Lower Saxony,Good,Partner Bank
+34,CUS-000034,Germany,Berlin,Excellent,Installer Referral
+35,CUS-000035,Germany,Berlin,Fair,Installer Referral
+36,CUS-000036,Netherlands,North Holland,Fair,Installer Referral
+37,CUS-000037,Germany,Bavaria,Excellent,Marketplace
+38,CUS-000038,Germany,Bavaria,Good,Direct Sales
+39,CUS-000039,Germany,Berlin,Fair,Online
+40,CUS-000040,Germany,Berlin,Fair,Direct Sales
+41,CUS-000041,Austria,Vienna,Fair,Installer Referral
+42,CUS-000042,Austria,Styria,Good,Installer Referral
+43,CUS-000043,Germany,Bavaria,Good,Direct Sales
+44,CUS-000044,Germany,Hesse,Fair,Marketplace
+45,CUS-000045,Austria,Styria,Fair,Direct Sales
+46,CUS-000046,Germany,Hesse,Good,Installer Referral
+47,CUS-000047,Austria,Upper Austria,Good,Installer Referral
+48,CUS-000048,Germany,Hesse,Good,Installer Referral
+49,CUS-000049,Germany,Berlin,Good,Installer Referral
+50,CUS-000050,Germany,Hesse,Excellent,Installer Referral
+51,CUS-000051,Germany,North Rhine-Westphalia,Fair,Installer Referral
+52,CUS-000052,Germany,Hesse,Good,Installer Referral
+53,CUS-000053,Austria,Upper Austria,Poor,Online
+54,CUS-000054,Germany,Hesse,Good,Installer Referral
+55,CUS-000055,Germany,Lower Saxony,Poor,Marketplace
+56,CUS-000056,Germany,Berlin,Fair,Partner Bank
+57,CUS-000057,Austria,Upper Austria,Good,Online
+58,CUS-000058,Germany,Baden-Württemberg,Fair,Partner Bank
+59,CUS-000059,Austria,Upper Austria,Poor,Marketplace
+60,CUS-000060,Germany,Lower Saxony,Fair,Partner Bank
+61,CUS-000061,Germany,Lower Saxony,Excellent,Online
+62,CUS-000062,Germany,Lower Saxony,Good,Online
+63,CUS-000063,Germany,Lower Saxony,Good,Marketplace
+64,CUS-000064,Germany,Bavaria,Good,Partner Bank
+65,CUS-000065,Germany,Baden-Württemberg,Good,Installer Referral
+66,CUS-000066,Netherlands,North Holland,Fair,Marketplace
+67,CUS-000067,Germany,Bavaria,Fair,Installer Referral
+68,CUS-000068,Germany,Bavaria,Fair,Installer Referral
+69,CUS-000069,Germany,Baden-Württemberg,Excellent,Online
+70,CUS-000070,Austria,Vienna,Fair,Installer Referral
+71,CUS-000071,Germany,Hesse,Excellent,Installer Referral
+72,CUS-000072,Germany,Lower Saxony,Good,Partner Bank
+73,CUS-000073,Germany,Berlin,Fair,Installer Referral
+74,CUS-000074,Germany,Baden-Württemberg,Poor,Online
+75,CUS-000075,Germany,Hesse,Fair,Installer Referral
+76,CUS-000076,Germany,Baden-Württemberg,Excellent,Online
+77,CUS-000077,Germany,Lower Saxony,Fair,Installer Referral
+78,CUS-000078,Netherlands,North Brabant,Poor,Online
+79,CUS-000079,Germany,North Rhine-Westphalia,Fair,Marketplace
+80,CUS-000080,Germany,Hesse,Fair,Online
+81,CUS-000081,Austria,Styria,Good,Direct Sales
+82,CUS-000082,Austria,Vienna,Good,Online
+83,CUS-000083,Austria,Styria,Fair,Installer Referral
+84,CUS-000084,Germany,Baden-Württemberg,Excellent,Installer Referral
+85,CUS-000085,Austria,Upper Austria,Good,Online
+86,CUS-000086,Austria,Styria,Excellent,Marketplace
+87,CUS-000087,Germany,Berlin,Good,Online
+88,CUS-000088,Germany,Lower Saxony,Fair,Online
+89,CUS-000089,Austria,Vienna,Good,Online
+90,CUS-000090,Germany,Berlin,Fair,Online
+91,CUS-000091,Germany,Lower Saxony,Poor,Online
+92,CUS-000092,Germany,Lower Saxony,Good,Installer Referral
+93,CUS-000093,Germany,North Rhine-Westphalia,Good,Partner Bank
+94,CUS-000094,Netherlands,North Brabant,Excellent,Installer Referral
+95,CUS-000095,Germany,Berlin,Fair,Partner Bank
+96,CUS-000096,Germany,Bavaria,Fair,Installer Referral
+97,CUS-000097,Germany,Baden-Württemberg,Excellent,Online
+98,CUS-000098,Germany,Bavaria,Fair,Partner Bank
+99,CUS-000099,Germany,Lower Saxony,Excellent,Installer Referral
+100,CUS-000100,Germany,Lower Saxony,Good,Installer Referral
+101,CUS-000101,Germany,Lower Saxony,Excellent,Installer Referral
+102,CUS-000102,Germany,Hesse,Fair,Installer Referral
+103,CUS-000103,Germany,Hesse,Poor,Installer Referral
+104,CUS-000104,Germany,Hesse,Fair,Online
+105,CUS-000105,Austria,Vienna,Fair,Installer Referral
+106,CUS-000106,Netherlands,South Holland,Poor,Marketplace
+107,CUS-000107,Germany,Hesse,Excellent,Marketplace
+108,CUS-000108,Germany,North Rhine-Westphalia,Fair,Installer Referral
+109,CUS-000109,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+110,CUS-000110,Germany,Lower Saxony,Fair,Online
+111,CUS-000111,Germany,Baden-Württemberg,Fair,Partner Bank
+112,CUS-000112,Germany,Berlin,Good,Installer Referral
+113,CUS-000113,Austria,Styria,Fair,Marketplace
+114,CUS-000114,Germany,Hesse,Good,Installer Referral
+115,CUS-000115,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+116,CUS-000116,Germany,Berlin,Fair,Marketplace
+117,CUS-000117,Germany,Lower Saxony,Fair,Partner Bank
+118,CUS-000118,Netherlands,North Brabant,Good,Online
+119,CUS-000119,Germany,Lower Saxony,Fair,Online
+120,CUS-000120,Germany,North Rhine-Westphalia,Poor,Direct Sales
+121,CUS-000121,Germany,Bavaria,Poor,Partner Bank
+122,CUS-000122,Germany,Bavaria,Fair,Installer Referral
+123,CUS-000123,Germany,Lower Saxony,Poor,Installer Referral
+124,CUS-000124,Germany,Berlin,Fair,Marketplace
+125,CUS-000125,Germany,Lower Saxony,Good,Partner Bank
+126,CUS-000126,Austria,Upper Austria,Good,Online
+127,CUS-000127,Germany,Lower Saxony,Fair,Online
+128,CUS-000128,Germany,Baden-Württemberg,Good,Installer Referral
+129,CUS-000129,Austria,Styria,Fair,Installer Referral
+130,CUS-000130,Austria,Upper Austria,Good,Installer Referral
+131,CUS-000131,Germany,Lower Saxony,Fair,Partner Bank
+132,CUS-000132,Germany,Hesse,Excellent,Installer Referral
+133,CUS-000133,Austria,Upper Austria,Excellent,Marketplace
+134,CUS-000134,Germany,North Rhine-Westphalia,Fair,Installer Referral
+135,CUS-000135,Germany,Lower Saxony,Excellent,Marketplace
+136,CUS-000136,Netherlands,South Holland,Poor,Online
+137,CUS-000137,Germany,Berlin,Good,Partner Bank
+138,CUS-000138,Germany,Lower Saxony,Poor,Installer Referral
+139,CUS-000139,Germany,Lower Saxony,Excellent,Online
+140,CUS-000140,Austria,Vienna,Poor,Installer Referral
+141,CUS-000141,Austria,Upper Austria,Good,Partner Bank
+142,CUS-000142,Germany,Bavaria,Good,Installer Referral
+143,CUS-000143,Germany,Berlin,Good,Installer Referral
+144,CUS-000144,Germany,Baden-Württemberg,Good,Partner Bank
+145,CUS-000145,Germany,Baden-Württemberg,Poor,Marketplace
+146,CUS-000146,Germany,Lower Saxony,Good,Partner Bank
+147,CUS-000147,Germany,Berlin,Good,Direct Sales
+148,CUS-000148,Germany,Berlin,Fair,Partner Bank
+149,CUS-000149,Germany,Bavaria,Excellent,Marketplace
+150,CUS-000150,Germany,Bavaria,Poor,Online
+151,CUS-000151,Germany,Lower Saxony,Excellent,Installer Referral
+152,CUS-000152,Austria,Vienna,Excellent,Partner Bank
+153,CUS-000153,Germany,Hesse,Fair,Online
+154,CUS-000154,Austria,Styria,Poor,Installer Referral
+155,CUS-000155,Germany,Berlin,Poor,Online
+156,CUS-000156,Germany,Hesse,Excellent,Online
+157,CUS-000157,Netherlands,North Holland,Fair,Online
+158,CUS-000158,Germany,Berlin,Fair,Installer Referral
+159,CUS-000159,Germany,Baden-Württemberg,Poor,Installer Referral
+160,CUS-000160,Austria,Upper Austria,Good,Online
+161,CUS-000161,Germany,Lower Saxony,Fair,Partner Bank
+162,CUS-000162,Germany,Bavaria,Fair,Installer Referral
+163,CUS-000163,Germany,Lower Saxony,Poor,Installer Referral
+164,CUS-000164,Germany,Baden-Württemberg,Good,Partner Bank
+165,CUS-000165,Austria,Upper Austria,Poor,Partner Bank
+166,CUS-000166,Germany,Lower Saxony,Poor,Marketplace
+167,CUS-000167,Germany,Lower Saxony,Fair,Online
+168,CUS-000168,Germany,Lower Saxony,Poor,Installer Referral
+169,CUS-000169,Germany,Baden-Württemberg,Fair,Marketplace
+170,CUS-000170,Germany,Berlin,Good,Installer Referral
+171,CUS-000171,Austria,Styria,Poor,Direct Sales
+172,CUS-000172,Austria,Upper Austria,Fair,Installer Referral
+173,CUS-000173,Austria,Vienna,Fair,Online
+174,CUS-000174,Germany,Berlin,Fair,Partner Bank
+175,CUS-000175,Germany,Bavaria,Poor,Online
+176,CUS-000176,Germany,Lower Saxony,Excellent,Installer Referral
+177,CUS-000177,Germany,Baden-Württemberg,Good,Online
+178,CUS-000178,Germany,Hesse,Poor,Installer Referral
+179,CUS-000179,Germany,Baden-Württemberg,Fair,Installer Referral
+180,CUS-000180,Austria,Upper Austria,Poor,Installer Referral
+181,CUS-000181,Austria,Vienna,Good,Installer Referral
+182,CUS-000182,Austria,Vienna,Poor,Partner Bank
+183,CUS-000183,Netherlands,North Brabant,Good,Partner Bank
+184,CUS-000184,Germany,Hesse,Excellent,Installer Referral
+185,CUS-000185,Austria,Upper Austria,Fair,Direct Sales
+186,CUS-000186,Netherlands,North Holland,Fair,Online
+187,CUS-000187,Germany,Hesse,Good,Online
+188,CUS-000188,Germany,Berlin,Fair,Direct Sales
+189,CUS-000189,Germany,Lower Saxony,Excellent,Installer Referral
+190,CUS-000190,Germany,Lower Saxony,Excellent,Installer Referral
+191,CUS-000191,Germany,Lower Saxony,Good,Partner Bank
+192,CUS-000192,Austria,Styria,Good,Partner Bank
+193,CUS-000193,Germany,Lower Saxony,Fair,Direct Sales
+194,CUS-000194,Germany,Baden-Württemberg,Excellent,Installer Referral
+195,CUS-000195,Germany,North Rhine-Westphalia,Poor,Installer Referral
+196,CUS-000196,Germany,Hesse,Poor,Online
+197,CUS-000197,Germany,Baden-Württemberg,Excellent,Installer Referral
+198,CUS-000198,Austria,Upper Austria,Excellent,Installer Referral
+199,CUS-000199,Germany,Bavaria,Excellent,Installer Referral
+200,CUS-000200,Netherlands,North Brabant,Good,Direct Sales
+201,CUS-000201,Germany,Hesse,Good,Direct Sales
+202,CUS-000202,Germany,North Rhine-Westphalia,Fair,Online
+203,CUS-000203,Germany,North Rhine-Westphalia,Poor,Online
+204,CUS-000204,Austria,Vienna,Fair,Installer Referral
+205,CUS-000205,Germany,North Rhine-Westphalia,Fair,Installer Referral
+206,CUS-000206,Germany,North Rhine-Westphalia,Fair,Online
+207,CUS-000207,Austria,Upper Austria,Good,Installer Referral
+208,CUS-000208,Germany,Lower Saxony,Good,Marketplace
+209,CUS-000209,Germany,Berlin,Good,Online
+210,CUS-000210,Netherlands,North Holland,Poor,Direct Sales
+211,CUS-000211,Germany,Bavaria,Good,Direct Sales
+212,CUS-000212,Germany,Bavaria,Good,Installer Referral
+213,CUS-000213,Germany,Hesse,Fair,Online
+214,CUS-000214,Germany,Hesse,Good,Online
+215,CUS-000215,Germany,Bavaria,Fair,Installer Referral
+216,CUS-000216,Germany,Hesse,Fair,Installer Referral
+217,CUS-000217,Germany,North Rhine-Westphalia,Good,Direct Sales
+218,CUS-000218,Germany,Berlin,Excellent,Online
+219,CUS-000219,Germany,Baden-Württemberg,Poor,Partner Bank
+220,CUS-000220,Germany,Bavaria,Fair,Installer Referral
+221,CUS-000221,Germany,Berlin,Good,Installer Referral
+222,CUS-000222,Germany,Hesse,Fair,Partner Bank
+223,CUS-000223,Germany,Berlin,Poor,Online
+224,CUS-000224,Netherlands,North Holland,Poor,Online
+225,CUS-000225,Germany,Hesse,Good,Installer Referral
+226,CUS-000226,Germany,Bavaria,Good,Online
+227,CUS-000227,Germany,Baden-Württemberg,Fair,Direct Sales
+228,CUS-000228,Austria,Styria,Fair,Online
+229,CUS-000229,Germany,Berlin,Fair,Installer Referral
+230,CUS-000230,Germany,Berlin,Fair,Marketplace
+231,CUS-000231,Germany,North Rhine-Westphalia,Poor,Online
+232,CUS-000232,Germany,North Rhine-Westphalia,Fair,Marketplace
+233,CUS-000233,Germany,Hesse,Good,Online
+234,CUS-000234,Germany,Baden-Württemberg,Good,Installer Referral
+235,CUS-000235,Netherlands,North Brabant,Excellent,Installer Referral
+236,CUS-000236,Germany,Hesse,Excellent,Installer Referral
+237,CUS-000237,Germany,Lower Saxony,Good,Online
+238,CUS-000238,Germany,Hesse,Excellent,Online
+239,CUS-000239,Germany,Berlin,Fair,Online
+240,CUS-000240,Germany,North Rhine-Westphalia,Good,Online
+241,CUS-000241,Germany,Baden-Württemberg,Poor,Partner Bank
+242,CUS-000242,Austria,Upper Austria,Good,Installer Referral
+243,CUS-000243,Austria,Vienna,Excellent,Online
+244,CUS-000244,Germany,Hesse,Fair,Direct Sales
+245,CUS-000245,Germany,Berlin,Excellent,Installer Referral
+246,CUS-000246,Netherlands,South Holland,Fair,Online
+247,CUS-000247,Austria,Upper Austria,Good,Online
+248,CUS-000248,Netherlands,North Holland,Fair,Online
+249,CUS-000249,Austria,Upper Austria,Excellent,Direct Sales
+250,CUS-000250,Germany,Hesse,Good,Installer Referral
+251,CUS-000251,Austria,Styria,Good,Installer Referral
+252,CUS-000252,Germany,Hesse,Fair,Online
+253,CUS-000253,Germany,Baden-Württemberg,Good,Marketplace
+254,CUS-000254,Germany,North Rhine-Westphalia,Good,Installer Referral
+255,CUS-000255,Germany,Hesse,Excellent,Partner Bank
+256,CUS-000256,Germany,Berlin,Good,Partner Bank
+257,CUS-000257,Austria,Upper Austria,Fair,Direct Sales
+258,CUS-000258,Germany,Hesse,Good,Marketplace
+259,CUS-000259,Germany,Lower Saxony,Excellent,Online
+260,CUS-000260,Germany,Baden-Württemberg,Fair,Installer Referral
+261,CUS-000261,Germany,Lower Saxony,Good,Installer Referral
+262,CUS-000262,Austria,Vienna,Fair,Marketplace
+263,CUS-000263,Germany,Hesse,Good,Online
+264,CUS-000264,Germany,Berlin,Poor,Online
+265,CUS-000265,Austria,Styria,Excellent,Online
+266,CUS-000266,Germany,Bavaria,Good,Direct Sales
+267,CUS-000267,Austria,Styria,Excellent,Online
+268,CUS-000268,Germany,Berlin,Good,Online
+269,CUS-000269,Germany,North Rhine-Westphalia,Good,Direct Sales
+270,CUS-000270,Germany,Baden-Württemberg,Fair,Installer Referral
+271,CUS-000271,Germany,Baden-Württemberg,Excellent,Installer Referral
+272,CUS-000272,Germany,Baden-Württemberg,Good,Direct Sales
+273,CUS-000273,Netherlands,North Brabant,Poor,Installer Referral
+274,CUS-000274,Germany,North Rhine-Westphalia,Poor,Installer Referral
+275,CUS-000275,Germany,Berlin,Good,Online
+276,CUS-000276,Netherlands,South Holland,Fair,Online
+277,CUS-000277,Germany,North Rhine-Westphalia,Fair,Direct Sales
+278,CUS-000278,Austria,Styria,Poor,Installer Referral
+279,CUS-000279,Germany,Hesse,Good,Installer Referral
+280,CUS-000280,Germany,North Rhine-Westphalia,Good,Partner Bank
+281,CUS-000281,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+282,CUS-000282,Austria,Styria,Fair,Direct Sales
+283,CUS-000283,Austria,Vienna,Fair,Direct Sales
+284,CUS-000284,Germany,Hesse,Good,Installer Referral
+285,CUS-000285,Austria,Styria,Fair,Installer Referral
+286,CUS-000286,Germany,Lower Saxony,Good,Partner Bank
+287,CUS-000287,Netherlands,North Brabant,Good,Partner Bank
+288,CUS-000288,Germany,Hesse,Good,Marketplace
+289,CUS-000289,Austria,Vienna,Good,Marketplace
+290,CUS-000290,Netherlands,South Holland,Fair,Partner Bank
+291,CUS-000291,Germany,Lower Saxony,Poor,Direct Sales
+292,CUS-000292,Austria,Vienna,Poor,Installer Referral
+293,CUS-000293,Germany,Baden-Württemberg,Fair,Installer Referral
+294,CUS-000294,Austria,Vienna,Good,Partner Bank
+295,CUS-000295,Germany,Hesse,Excellent,Online
+296,CUS-000296,Netherlands,North Holland,Fair,Direct Sales
+297,CUS-000297,Netherlands,South Holland,Excellent,Online
+298,CUS-000298,Germany,Bavaria,Good,Installer Referral
+299,CUS-000299,Netherlands,North Brabant,Fair,Partner Bank
+300,CUS-000300,Germany,Baden-Württemberg,Poor,Online
+301,CUS-000301,Austria,Styria,Good,Online
+302,CUS-000302,Netherlands,North Holland,Good,Direct Sales
+303,CUS-000303,Germany,Berlin,Fair,Online
+304,CUS-000304,Austria,Vienna,Good,Installer Referral
+305,CUS-000305,Germany,Hesse,Good,Installer Referral
+306,CUS-000306,Netherlands,North Brabant,Good,Online
+307,CUS-000307,Germany,Berlin,Excellent,Online
+308,CUS-000308,Germany,North Rhine-Westphalia,Fair,Installer Referral
+309,CUS-000309,Germany,Hesse,Poor,Installer Referral
+310,CUS-000310,Germany,Hesse,Fair,Online
+311,CUS-000311,Germany,Lower Saxony,Excellent,Installer Referral
+312,CUS-000312,Germany,Berlin,Excellent,Partner Bank
+313,CUS-000313,Germany,Berlin,Fair,Installer Referral
+314,CUS-000314,Germany,Baden-Württemberg,Excellent,Installer Referral
+315,CUS-000315,Germany,Berlin,Excellent,Partner Bank
+316,CUS-000316,Germany,Berlin,Good,Installer Referral
+317,CUS-000317,Germany,Berlin,Fair,Online
+318,CUS-000318,Germany,Bavaria,Fair,Direct Sales
+319,CUS-000319,Germany,Baden-Württemberg,Good,Marketplace
+320,CUS-000320,Germany,Baden-Württemberg,Excellent,Online
+321,CUS-000321,Germany,Bavaria,Poor,Installer Referral
+322,CUS-000322,Germany,Baden-Württemberg,Good,Online
+323,CUS-000323,Germany,Lower Saxony,Good,Installer Referral
+324,CUS-000324,Germany,Baden-Württemberg,Poor,Online
+325,CUS-000325,Austria,Styria,Good,Online
+326,CUS-000326,Netherlands,North Holland,Good,Installer Referral
+327,CUS-000327,Germany,Berlin,Good,Online
+328,CUS-000328,Austria,Vienna,Fair,Installer Referral
+329,CUS-000329,Germany,Baden-Württemberg,Fair,Online
+330,CUS-000330,Germany,Bavaria,Excellent,Online
+331,CUS-000331,Germany,Berlin,Fair,Marketplace
+332,CUS-000332,Germany,Hesse,Fair,Online
+333,CUS-000333,Germany,North Rhine-Westphalia,Fair,Installer Referral
+334,CUS-000334,Germany,Hesse,Excellent,Installer Referral
+335,CUS-000335,Germany,Baden-Württemberg,Good,Partner Bank
+336,CUS-000336,Germany,Hesse,Good,Installer Referral
+337,CUS-000337,Germany,Bavaria,Excellent,Installer Referral
+338,CUS-000338,Germany,Hesse,Excellent,Partner Bank
+339,CUS-000339,Austria,Vienna,Poor,Installer Referral
+340,CUS-000340,Netherlands,South Holland,Good,Installer Referral
+341,CUS-000341,Germany,North Rhine-Westphalia,Poor,Online
+342,CUS-000342,Germany,Berlin,Poor,Marketplace
+343,CUS-000343,Germany,Berlin,Excellent,Online
+344,CUS-000344,Austria,Vienna,Fair,Marketplace
+345,CUS-000345,Germany,Baden-Württemberg,Good,Installer Referral
+346,CUS-000346,Germany,North Rhine-Westphalia,Good,Online
+347,CUS-000347,Germany,Hesse,Good,Direct Sales
+348,CUS-000348,Germany,Hesse,Poor,Installer Referral
+349,CUS-000349,Germany,Berlin,Fair,Online
+350,CUS-000350,Austria,Styria,Excellent,Marketplace
+351,CUS-000351,Germany,Lower Saxony,Good,Online
+352,CUS-000352,Germany,Hesse,Fair,Installer Referral
+353,CUS-000353,Netherlands,South Holland,Good,Direct Sales
+354,CUS-000354,Austria,Styria,Excellent,Installer Referral
+355,CUS-000355,Germany,Berlin,Good,Marketplace
+356,CUS-000356,Germany,Baden-Württemberg,Fair,Installer Referral
+357,CUS-000357,Germany,Hesse,Good,Online
+358,CUS-000358,Germany,Bavaria,Good,Installer Referral
+359,CUS-000359,Netherlands,North Holland,Excellent,Online
+360,CUS-000360,Netherlands,South Holland,Fair,Online
+361,CUS-000361,Austria,Vienna,Excellent,Marketplace
+362,CUS-000362,Austria,Upper Austria,Fair,Partner Bank
+363,CUS-000363,Germany,Berlin,Excellent,Direct Sales
+364,CUS-000364,Germany,Berlin,Poor,Online
+365,CUS-000365,Austria,Styria,Good,Online
+366,CUS-000366,Germany,North Rhine-Westphalia,Good,Online
+367,CUS-000367,Germany,Hesse,Excellent,Direct Sales
+368,CUS-000368,Germany,Baden-Württemberg,Poor,Installer Referral
+369,CUS-000369,Germany,Hesse,Excellent,Installer Referral
+370,CUS-000370,Germany,Lower Saxony,Good,Installer Referral
+371,CUS-000371,Germany,Lower Saxony,Poor,Online
+372,CUS-000372,Netherlands,North Holland,Fair,Marketplace
+373,CUS-000373,Austria,Vienna,Fair,Online
+374,CUS-000374,Germany,Lower Saxony,Poor,Online
+375,CUS-000375,Germany,Lower Saxony,Good,Marketplace
+376,CUS-000376,Germany,Baden-Württemberg,Excellent,Installer Referral
+377,CUS-000377,Germany,Berlin,Fair,Installer Referral
+378,CUS-000378,Germany,Bavaria,Good,Direct Sales
+379,CUS-000379,Austria,Upper Austria,Good,Online
+380,CUS-000380,Germany,North Rhine-Westphalia,Good,Installer Referral
+381,CUS-000381,Germany,Lower Saxony,Fair,Installer Referral
+382,CUS-000382,Netherlands,North Brabant,Fair,Installer Referral
+383,CUS-000383,Germany,Baden-Württemberg,Fair,Installer Referral
+384,CUS-000384,Netherlands,North Holland,Excellent,Online
+385,CUS-000385,Germany,Bavaria,Excellent,Partner Bank
+386,CUS-000386,Austria,Styria,Good,Online
+387,CUS-000387,Germany,Baden-Württemberg,Poor,Installer Referral
+388,CUS-000388,Germany,Hesse,Fair,Installer Referral
+389,CUS-000389,Germany,Hesse,Good,Partner Bank
+390,CUS-000390,Germany,Bavaria,Good,Partner Bank
+391,CUS-000391,Netherlands,North Brabant,Good,Direct Sales
+392,CUS-000392,Austria,Styria,Excellent,Online
+393,CUS-000393,Netherlands,North Brabant,Fair,Partner Bank
+394,CUS-000394,Germany,North Rhine-Westphalia,Good,Partner Bank
+395,CUS-000395,Austria,Upper Austria,Excellent,Partner Bank
+396,CUS-000396,Germany,Berlin,Excellent,Installer Referral
+397,CUS-000397,Germany,North Rhine-Westphalia,Good,Installer Referral
+398,CUS-000398,Germany,Hesse,Poor,Direct Sales
+399,CUS-000399,Austria,Vienna,Fair,Online
+400,CUS-000400,Germany,Berlin,Good,Installer Referral
+401,CUS-000401,Netherlands,South Holland,Poor,Installer Referral
+402,CUS-000402,Germany,Berlin,Fair,Direct Sales
+403,CUS-000403,Germany,Lower Saxony,Excellent,Installer Referral
+404,CUS-000404,Germany,North Rhine-Westphalia,Poor,Marketplace
+405,CUS-000405,Austria,Styria,Good,Partner Bank
+406,CUS-000406,Germany,Baden-Württemberg,Fair,Marketplace
+407,CUS-000407,Austria,Upper Austria,Excellent,Partner Bank
+408,CUS-000408,Germany,Lower Saxony,Fair,Marketplace
+409,CUS-000409,Austria,Upper Austria,Excellent,Marketplace
+410,CUS-000410,Germany,Lower Saxony,Fair,Partner Bank
+411,CUS-000411,Germany,Hesse,Good,Online
+412,CUS-000412,Germany,Bavaria,Fair,Online
+413,CUS-000413,Germany,Berlin,Poor,Installer Referral
+414,CUS-000414,Germany,Bavaria,Good,Partner Bank
+415,CUS-000415,Germany,North Rhine-Westphalia,Excellent,Online
+416,CUS-000416,Netherlands,South Holland,Fair,Direct Sales
+417,CUS-000417,Germany,Berlin,Excellent,Marketplace
+418,CUS-000418,Germany,Berlin,Excellent,Partner Bank
+419,CUS-000419,Germany,North Rhine-Westphalia,Good,Partner Bank
+420,CUS-000420,Netherlands,North Holland,Good,Direct Sales
+421,CUS-000421,Netherlands,North Holland,Poor,Installer Referral
+422,CUS-000422,Germany,Berlin,Poor,Marketplace
+423,CUS-000423,Austria,Vienna,Good,Online
+424,CUS-000424,Netherlands,South Holland,Good,Marketplace
+425,CUS-000425,Germany,Lower Saxony,Poor,Installer Referral
+426,CUS-000426,Germany,Baden-Württemberg,Excellent,Installer Referral
+427,CUS-000427,Germany,Lower Saxony,Fair,Partner Bank
+428,CUS-000428,Germany,Baden-Württemberg,Fair,Online
+429,CUS-000429,Austria,Vienna,Fair,Online
+430,CUS-000430,Germany,Lower Saxony,Good,Installer Referral
+431,CUS-000431,Germany,North Rhine-Westphalia,Poor,Online
+432,CUS-000432,Netherlands,North Holland,Good,Installer Referral
+433,CUS-000433,Austria,Upper Austria,Good,Partner Bank
+434,CUS-000434,Germany,Berlin,Good,Installer Referral
+435,CUS-000435,Germany,Lower Saxony,Good,Online
+436,CUS-000436,Germany,Berlin,Fair,Partner Bank
+437,CUS-000437,Germany,Baden-Württemberg,Good,Installer Referral
+438,CUS-000438,Netherlands,South Holland,Excellent,Partner Bank
+439,CUS-000439,Germany,Lower Saxony,Fair,Direct Sales
+440,CUS-000440,Austria,Styria,Fair,Partner Bank
+441,CUS-000441,Germany,Hesse,Poor,Installer Referral
+442,CUS-000442,Germany,Berlin,Good,Direct Sales
+443,CUS-000443,Germany,Hesse,Poor,Installer Referral
+444,CUS-000444,Germany,North Rhine-Westphalia,Good,Online
+445,CUS-000445,Germany,North Rhine-Westphalia,Fair,Online
+446,CUS-000446,Austria,Upper Austria,Fair,Online
+447,CUS-000447,Germany,Lower Saxony,Fair,Online
+448,CUS-000448,Germany,Baden-Württemberg,Fair,Installer Referral
+449,CUS-000449,Austria,Styria,Good,Installer Referral
+450,CUS-000450,Germany,Berlin,Excellent,Marketplace
+451,CUS-000451,Netherlands,North Holland,Poor,Online
+452,CUS-000452,Germany,North Rhine-Westphalia,Fair,Partner Bank
+453,CUS-000453,Netherlands,North Brabant,Poor,Installer Referral
+454,CUS-000454,Austria,Upper Austria,Poor,Direct Sales
+455,CUS-000455,Germany,Berlin,Poor,Direct Sales
+456,CUS-000456,Germany,Baden-Württemberg,Excellent,Marketplace
+457,CUS-000457,Germany,North Rhine-Westphalia,Fair,Installer Referral
+458,CUS-000458,Germany,Bavaria,Poor,Online
+459,CUS-000459,Austria,Upper Austria,Good,Direct Sales
+460,CUS-000460,Germany,Baden-Württemberg,Excellent,Installer Referral
+461,CUS-000461,Austria,Vienna,Excellent,Partner Bank
+462,CUS-000462,Germany,Bavaria,Good,Installer Referral
+463,CUS-000463,Germany,Lower Saxony,Fair,Partner Bank
+464,CUS-000464,Germany,Berlin,Excellent,Online
+465,CUS-000465,Germany,Bavaria,Excellent,Marketplace
+466,CUS-000466,Germany,Berlin,Fair,Online
+467,CUS-000467,Austria,Upper Austria,Good,Direct Sales
+468,CUS-000468,Netherlands,North Brabant,Good,Installer Referral
+469,CUS-000469,Germany,Hesse,Poor,Direct Sales
+470,CUS-000470,Germany,Lower Saxony,Fair,Installer Referral
+471,CUS-000471,Germany,Berlin,Fair,Partner Bank
+472,CUS-000472,Germany,Lower Saxony,Good,Installer Referral
+473,CUS-000473,Germany,Hesse,Good,Direct Sales
+474,CUS-000474,Germany,Berlin,Excellent,Online
+475,CUS-000475,Germany,Lower Saxony,Poor,Online
+476,CUS-000476,Germany,North Rhine-Westphalia,Good,Installer Referral
+477,CUS-000477,Germany,Lower Saxony,Fair,Installer Referral
+478,CUS-000478,Austria,Vienna,Excellent,Installer Referral
+479,CUS-000479,Germany,Bavaria,Poor,Installer Referral
+480,CUS-000480,Austria,Styria,Fair,Installer Referral
+481,CUS-000481,Germany,Baden-Württemberg,Good,Direct Sales
+482,CUS-000482,Germany,North Rhine-Westphalia,Poor,Installer Referral
+483,CUS-000483,Netherlands,South Holland,Poor,Partner Bank
+484,CUS-000484,Austria,Upper Austria,Poor,Online
+485,CUS-000485,Austria,Upper Austria,Good,Online
+486,CUS-000486,Germany,Baden-Württemberg,Good,Online
+487,CUS-000487,Germany,Berlin,Good,Direct Sales
+488,CUS-000488,Netherlands,South Holland,Good,Installer Referral
+489,CUS-000489,Austria,Styria,Excellent,Installer Referral
+490,CUS-000490,Netherlands,North Brabant,Fair,Installer Referral
+491,CUS-000491,Germany,North Rhine-Westphalia,Good,Direct Sales
+492,CUS-000492,Germany,Berlin,Poor,Installer Referral
+493,CUS-000493,Austria,Upper Austria,Poor,Online
+494,CUS-000494,Germany,North Rhine-Westphalia,Fair,Installer Referral
+495,CUS-000495,Germany,Hesse,Good,Direct Sales
+496,CUS-000496,Germany,Berlin,Poor,Online
+497,CUS-000497,Austria,Vienna,Poor,Partner Bank
+498,CUS-000498,Austria,Upper Austria,Excellent,Online
+499,CUS-000499,Germany,North Rhine-Westphalia,Excellent,Online
+500,CUS-000500,Germany,Hesse,Fair,Marketplace
+501,CUS-000501,Netherlands,North Brabant,Good,Installer Referral
+502,CUS-000502,Germany,Bavaria,Excellent,Partner Bank
+503,CUS-000503,Germany,Baden-Württemberg,Excellent,Direct Sales
+504,CUS-000504,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+505,CUS-000505,Germany,North Rhine-Westphalia,Fair,Installer Referral
+506,CUS-000506,Germany,Lower Saxony,Excellent,Marketplace
+507,CUS-000507,Germany,North Rhine-Westphalia,Poor,Installer Referral
+508,CUS-000508,Germany,Bavaria,Fair,Direct Sales
+509,CUS-000509,Austria,Vienna,Good,Installer Referral
+510,CUS-000510,Germany,Berlin,Excellent,Installer Referral
+511,CUS-000511,Germany,Lower Saxony,Fair,Installer Referral
+512,CUS-000512,Netherlands,North Holland,Poor,Direct Sales
+513,CUS-000513,Germany,Berlin,Poor,Online
+514,CUS-000514,Germany,Bavaria,Fair,Installer Referral
+515,CUS-000515,Germany,Berlin,Excellent,Marketplace
+516,CUS-000516,Germany,North Rhine-Westphalia,Fair,Partner Bank
+517,CUS-000517,Austria,Upper Austria,Poor,Installer Referral
+518,CUS-000518,Germany,Hesse,Fair,Installer Referral
+519,CUS-000519,Austria,Upper Austria,Good,Partner Bank
+520,CUS-000520,Austria,Styria,Fair,Online
+521,CUS-000521,Netherlands,North Holland,Excellent,Installer Referral
+522,CUS-000522,Germany,Hesse,Fair,Marketplace
+523,CUS-000523,Germany,Baden-Württemberg,Excellent,Installer Referral
+524,CUS-000524,Netherlands,South Holland,Good,Online
+525,CUS-000525,Germany,North Rhine-Westphalia,Fair,Partner Bank
+526,CUS-000526,Germany,Hesse,Good,Installer Referral
+527,CUS-000527,Germany,Baden-Württemberg,Excellent,Partner Bank
+528,CUS-000528,Germany,Berlin,Good,Installer Referral
+529,CUS-000529,Germany,Baden-Württemberg,Good,Partner Bank
+530,CUS-000530,Germany,Bavaria,Excellent,Online
+531,CUS-000531,Germany,Lower Saxony,Excellent,Installer Referral
+532,CUS-000532,Germany,Hesse,Fair,Installer Referral
+533,CUS-000533,Germany,Baden-Württemberg,Good,Partner Bank
+534,CUS-000534,Austria,Styria,Poor,Marketplace
+535,CUS-000535,Germany,North Rhine-Westphalia,Fair,Installer Referral
+536,CUS-000536,Germany,Baden-Württemberg,Good,Installer Referral
+537,CUS-000537,Germany,Lower Saxony,Good,Partner Bank
+538,CUS-000538,Germany,North Rhine-Westphalia,Fair,Online
+539,CUS-000539,Germany,Lower Saxony,Excellent,Installer Referral
+540,CUS-000540,Netherlands,South Holland,Fair,Installer Referral
+541,CUS-000541,Austria,Upper Austria,Good,Direct Sales
+542,CUS-000542,Austria,Styria,Excellent,Installer Referral
+543,CUS-000543,Netherlands,North Holland,Good,Installer Referral
+544,CUS-000544,Germany,Baden-Württemberg,Good,Partner Bank
+545,CUS-000545,Germany,Hesse,Fair,Installer Referral
+546,CUS-000546,Germany,Lower Saxony,Good,Marketplace
+547,CUS-000547,Germany,Hesse,Excellent,Partner Bank
+548,CUS-000548,Germany,Berlin,Good,Partner Bank
+549,CUS-000549,Germany,Baden-Württemberg,Fair,Installer Referral
+550,CUS-000550,Austria,Upper Austria,Fair,Installer Referral
+551,CUS-000551,Germany,Baden-Württemberg,Fair,Partner Bank
+552,CUS-000552,Austria,Vienna,Good,Online
+553,CUS-000553,Germany,Hesse,Good,Marketplace
+554,CUS-000554,Germany,Hesse,Excellent,Marketplace
+555,CUS-000555,Austria,Styria,Fair,Direct Sales
+556,CUS-000556,Germany,North Rhine-Westphalia,Fair,Installer Referral
+557,CUS-000557,Germany,Bavaria,Fair,Online
+558,CUS-000558,Germany,Baden-Württemberg,Poor,Online
+559,CUS-000559,Germany,Baden-Württemberg,Good,Partner Bank
+560,CUS-000560,Germany,Berlin,Fair,Online
+561,CUS-000561,Germany,Berlin,Fair,Online
+562,CUS-000562,Germany,Bavaria,Good,Installer Referral
+563,CUS-000563,Netherlands,North Holland,Excellent,Marketplace
+564,CUS-000564,Germany,Baden-Württemberg,Good,Partner Bank
+565,CUS-000565,Germany,Baden-Württemberg,Good,Online
+566,CUS-000566,Germany,Baden-Württemberg,Excellent,Installer Referral
+567,CUS-000567,Austria,Vienna,Fair,Online
+568,CUS-000568,Germany,North Rhine-Westphalia,Poor,Partner Bank
+569,CUS-000569,Germany,Hesse,Excellent,Online
+570,CUS-000570,Netherlands,North Holland,Fair,Online
+571,CUS-000571,Germany,Berlin,Good,Installer Referral
+572,CUS-000572,Germany,North Rhine-Westphalia,Good,Online
+573,CUS-000573,Germany,North Rhine-Westphalia,Good,Partner Bank
+574,CUS-000574,Austria,Vienna,Fair,Partner Bank
+575,CUS-000575,Germany,Baden-Württemberg,Good,Online
+576,CUS-000576,Germany,Lower Saxony,Good,Online
+577,CUS-000577,Germany,Hesse,Good,Installer Referral
+578,CUS-000578,Germany,Lower Saxony,Fair,Direct Sales
+579,CUS-000579,Austria,Upper Austria,Poor,Online
+580,CUS-000580,Germany,Baden-Württemberg,Excellent,Installer Referral
+581,CUS-000581,Germany,Berlin,Excellent,Installer Referral
+582,CUS-000582,Germany,Hesse,Good,Installer Referral
+583,CUS-000583,Germany,Berlin,Poor,Marketplace
+584,CUS-000584,Germany,North Rhine-Westphalia,Good,Installer Referral
+585,CUS-000585,Germany,Lower Saxony,Fair,Direct Sales
+586,CUS-000586,Netherlands,South Holland,Excellent,Direct Sales
+587,CUS-000587,Netherlands,North Brabant,Fair,Online
+588,CUS-000588,Germany,Berlin,Fair,Online
+589,CUS-000589,Germany,Bavaria,Fair,Installer Referral
+590,CUS-000590,Germany,North Rhine-Westphalia,Good,Installer Referral
+591,CUS-000591,Germany,Berlin,Fair,Online
+592,CUS-000592,Germany,Hesse,Excellent,Partner Bank
+593,CUS-000593,Austria,Upper Austria,Good,Partner Bank
+594,CUS-000594,Austria,Upper Austria,Good,Marketplace
+595,CUS-000595,Germany,Berlin,Fair,Installer Referral
+596,CUS-000596,Netherlands,South Holland,Good,Direct Sales
+597,CUS-000597,Germany,Bavaria,Fair,Installer Referral
+598,CUS-000598,Austria,Styria,Fair,Direct Sales
+599,CUS-000599,Germany,Lower Saxony,Excellent,Installer Referral
+600,CUS-000600,Germany,North Rhine-Westphalia,Fair,Online
+601,CUS-000601,Germany,Hesse,Good,Installer Referral
+602,CUS-000602,Austria,Upper Austria,Fair,Marketplace
+603,CUS-000603,Germany,Berlin,Fair,Installer Referral
+604,CUS-000604,Austria,Upper Austria,Poor,Marketplace
+605,CUS-000605,Austria,Vienna,Fair,Installer Referral
+606,CUS-000606,Germany,Baden-Württemberg,Fair,Partner Bank
+607,CUS-000607,Germany,Lower Saxony,Excellent,Online
+608,CUS-000608,Germany,Lower Saxony,Good,Online
+609,CUS-000609,Austria,Vienna,Good,Partner Bank
+610,CUS-000610,Germany,Baden-Württemberg,Good,Online
+611,CUS-000611,Germany,Berlin,Excellent,Marketplace
+612,CUS-000612,Germany,Berlin,Good,Installer Referral
+613,CUS-000613,Germany,North Rhine-Westphalia,Poor,Direct Sales
+614,CUS-000614,Germany,Baden-Württemberg,Fair,Installer Referral
+615,CUS-000615,Germany,Hesse,Poor,Partner Bank
+616,CUS-000616,Austria,Vienna,Excellent,Online
+617,CUS-000617,Austria,Vienna,Excellent,Direct Sales
+618,CUS-000618,Germany,Bavaria,Poor,Online
+619,CUS-000619,Netherlands,North Holland,Poor,Installer Referral
+620,CUS-000620,Austria,Upper Austria,Excellent,Installer Referral
+621,CUS-000621,Germany,Berlin,Poor,Installer Referral
+622,CUS-000622,Germany,Baden-Württemberg,Fair,Partner Bank
+623,CUS-000623,Germany,Bavaria,Fair,Installer Referral
+624,CUS-000624,Germany,North Rhine-Westphalia,Fair,Online
+625,CUS-000625,Germany,Bavaria,Fair,Direct Sales
+626,CUS-000626,Netherlands,South Holland,Fair,Online
+627,CUS-000627,Germany,Bavaria,Fair,Installer Referral
+628,CUS-000628,Germany,Baden-Württemberg,Excellent,Partner Bank
+629,CUS-000629,Austria,Vienna,Fair,Partner Bank
+630,CUS-000630,Germany,Hesse,Excellent,Partner Bank
+631,CUS-000631,Germany,Berlin,Good,Partner Bank
+632,CUS-000632,Netherlands,North Brabant,Fair,Direct Sales
+633,CUS-000633,Germany,Bavaria,Excellent,Installer Referral
+634,CUS-000634,Austria,Upper Austria,Poor,Installer Referral
+635,CUS-000635,Germany,Baden-Württemberg,Fair,Installer Referral
+636,CUS-000636,Germany,Berlin,Fair,Partner Bank
+637,CUS-000637,Germany,Berlin,Poor,Installer Referral
+638,CUS-000638,Germany,North Rhine-Westphalia,Fair,Installer Referral
+639,CUS-000639,Germany,North Rhine-Westphalia,Good,Installer Referral
+640,CUS-000640,Germany,Hesse,Excellent,Direct Sales
+641,CUS-000641,Germany,Baden-Württemberg,Poor,Installer Referral
+642,CUS-000642,Austria,Styria,Good,Online
+643,CUS-000643,Germany,Lower Saxony,Poor,Partner Bank
+644,CUS-000644,Germany,Bavaria,Excellent,Installer Referral
+645,CUS-000645,Netherlands,South Holland,Good,Online
+646,CUS-000646,Germany,Lower Saxony,Good,Online
+647,CUS-000647,Germany,Hesse,Fair,Installer Referral
+648,CUS-000648,Germany,Hesse,Poor,Marketplace
+649,CUS-000649,Germany,Baden-Württemberg,Good,Online
+650,CUS-000650,Austria,Styria,Fair,Installer Referral
+651,CUS-000651,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+652,CUS-000652,Germany,Lower Saxony,Fair,Installer Referral
+653,CUS-000653,Germany,Berlin,Fair,Installer Referral
+654,CUS-000654,Austria,Styria,Excellent,Online
+655,CUS-000655,Germany,Hesse,Fair,Partner Bank
+656,CUS-000656,Germany,North Rhine-Westphalia,Fair,Direct Sales
+657,CUS-000657,Austria,Vienna,Fair,Installer Referral
+658,CUS-000658,Austria,Upper Austria,Good,Installer Referral
+659,CUS-000659,Netherlands,North Brabant,Excellent,Online
+660,CUS-000660,Germany,Lower Saxony,Poor,Installer Referral
+661,CUS-000661,Germany,Bavaria,Poor,Partner Bank
+662,CUS-000662,Germany,Berlin,Good,Installer Referral
+663,CUS-000663,Austria,Vienna,Excellent,Installer Referral
+664,CUS-000664,Netherlands,North Holland,Poor,Direct Sales
+665,CUS-000665,Germany,Berlin,Fair,Online
+666,CUS-000666,Germany,Lower Saxony,Poor,Installer Referral
+667,CUS-000667,Austria,Styria,Good,Online
+668,CUS-000668,Netherlands,North Holland,Good,Online
+669,CUS-000669,Germany,Lower Saxony,Excellent,Online
+670,CUS-000670,Germany,Baden-Württemberg,Good,Online
+671,CUS-000671,Germany,North Rhine-Westphalia,Good,Partner Bank
+672,CUS-000672,Austria,Vienna,Good,Online
+673,CUS-000673,Germany,North Rhine-Westphalia,Fair,Online
+674,CUS-000674,Austria,Vienna,Excellent,Online
+675,CUS-000675,Germany,Baden-Württemberg,Fair,Partner Bank
+676,CUS-000676,Germany,Baden-Württemberg,Excellent,Partner Bank
+677,CUS-000677,Austria,Styria,Good,Installer Referral
+678,CUS-000678,Netherlands,South Holland,Good,Installer Referral
+679,CUS-000679,Netherlands,North Brabant,Good,Installer Referral
+680,CUS-000680,Germany,Hesse,Good,Direct Sales
+681,CUS-000681,Germany,Berlin,Excellent,Installer Referral
+682,CUS-000682,Germany,Lower Saxony,Excellent,Online
+683,CUS-000683,Germany,North Rhine-Westphalia,Good,Installer Referral
+684,CUS-000684,Germany,Lower Saxony,Fair,Partner Bank
+685,CUS-000685,Germany,Baden-Württemberg,Good,Marketplace
+686,CUS-000686,Germany,Hesse,Excellent,Installer Referral
+687,CUS-000687,Germany,Baden-Württemberg,Good,Online
+688,CUS-000688,Netherlands,North Holland,Good,Online
+689,CUS-000689,Austria,Vienna,Excellent,Partner Bank
+690,CUS-000690,Austria,Styria,Fair,Installer Referral
+691,CUS-000691,Austria,Vienna,Excellent,Installer Referral
+692,CUS-000692,Germany,Hesse,Excellent,Installer Referral
+693,CUS-000693,Austria,Vienna,Excellent,Online
+694,CUS-000694,Germany,Berlin,Fair,Installer Referral
+695,CUS-000695,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+696,CUS-000696,Austria,Vienna,Excellent,Direct Sales
+697,CUS-000697,Germany,Berlin,Poor,Installer Referral
+698,CUS-000698,Germany,Bavaria,Excellent,Installer Referral
+699,CUS-000699,Netherlands,South Holland,Fair,Installer Referral
+700,CUS-000700,Austria,Upper Austria,Excellent,Marketplace
+701,CUS-000701,Germany,Hesse,Good,Partner Bank
+702,CUS-000702,Germany,Lower Saxony,Fair,Installer Referral
+703,CUS-000703,Germany,North Rhine-Westphalia,Good,Online
+704,CUS-000704,Germany,Hesse,Fair,Installer Referral
+705,CUS-000705,Germany,Lower Saxony,Poor,Online
+706,CUS-000706,Germany,Lower Saxony,Excellent,Installer Referral
+707,CUS-000707,Austria,Styria,Good,Marketplace
+708,CUS-000708,Germany,Bavaria,Poor,Partner Bank
+709,CUS-000709,Germany,Hesse,Fair,Installer Referral
+710,CUS-000710,Germany,Baden-Württemberg,Good,Installer Referral
+711,CUS-000711,Germany,North Rhine-Westphalia,Excellent,Direct Sales
+712,CUS-000712,Germany,Lower Saxony,Good,Partner Bank
+713,CUS-000713,Netherlands,North Holland,Excellent,Partner Bank
+714,CUS-000714,Germany,Berlin,Excellent,Marketplace
+715,CUS-000715,Germany,Lower Saxony,Good,Direct Sales
+716,CUS-000716,Austria,Vienna,Good,Installer Referral
+717,CUS-000717,Austria,Upper Austria,Poor,Installer Referral
+718,CUS-000718,Austria,Styria,Fair,Online
+719,CUS-000719,Germany,Lower Saxony,Good,Installer Referral
+720,CUS-000720,Germany,Bavaria,Good,Installer Referral
+721,CUS-000721,Germany,Bavaria,Good,Online
+722,CUS-000722,Austria,Upper Austria,Fair,Direct Sales
+723,CUS-000723,Austria,Upper Austria,Excellent,Installer Referral
+724,CUS-000724,Austria,Vienna,Fair,Direct Sales
+725,CUS-000725,Austria,Vienna,Good,Marketplace
+726,CUS-000726,Germany,Bavaria,Good,Installer Referral
+727,CUS-000727,Netherlands,North Brabant,Poor,Partner Bank
+728,CUS-000728,Netherlands,North Brabant,Good,Partner Bank
+729,CUS-000729,Germany,Hesse,Fair,Installer Referral
+730,CUS-000730,Germany,North Rhine-Westphalia,Good,Partner Bank
+731,CUS-000731,Germany,North Rhine-Westphalia,Fair,Marketplace
+732,CUS-000732,Netherlands,South Holland,Poor,Partner Bank
+733,CUS-000733,Germany,North Rhine-Westphalia,Fair,Marketplace
+734,CUS-000734,Netherlands,North Holland,Fair,Installer Referral
+735,CUS-000735,Germany,Baden-Württemberg,Fair,Installer Referral
+736,CUS-000736,Netherlands,North Holland,Fair,Marketplace
+737,CUS-000737,Austria,Styria,Fair,Direct Sales
+738,CUS-000738,Germany,Baden-Württemberg,Good,Partner Bank
+739,CUS-000739,Germany,Bavaria,Fair,Installer Referral
+740,CUS-000740,Germany,Lower Saxony,Poor,Direct Sales
+741,CUS-000741,Germany,Lower Saxony,Good,Installer Referral
+742,CUS-000742,Austria,Styria,Fair,Partner Bank
+743,CUS-000743,Germany,Bavaria,Fair,Installer Referral
+744,CUS-000744,Germany,Baden-Württemberg,Poor,Installer Referral
+745,CUS-000745,Germany,Lower Saxony,Excellent,Installer Referral
+746,CUS-000746,Netherlands,North Holland,Good,Marketplace
+747,CUS-000747,Austria,Styria,Excellent,Marketplace
+748,CUS-000748,Germany,Lower Saxony,Excellent,Installer Referral
+749,CUS-000749,Germany,North Rhine-Westphalia,Good,Online
+750,CUS-000750,Netherlands,North Brabant,Good,Installer Referral
+751,CUS-000751,Germany,Bavaria,Good,Online
+752,CUS-000752,Germany,Bavaria,Good,Online
+753,CUS-000753,Germany,Berlin,Fair,Online
+754,CUS-000754,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+755,CUS-000755,Germany,Bavaria,Good,Installer Referral
+756,CUS-000756,Germany,Berlin,Good,Online
+757,CUS-000757,Germany,Baden-Württemberg,Poor,Installer Referral
+758,CUS-000758,Germany,Baden-Württemberg,Good,Installer Referral
+759,CUS-000759,Austria,Styria,Excellent,Partner Bank
+760,CUS-000760,Germany,Bavaria,Fair,Direct Sales
+761,CUS-000761,Germany,Hesse,Good,Installer Referral
+762,CUS-000762,Germany,Hesse,Good,Online
+763,CUS-000763,Austria,Upper Austria,Fair,Installer Referral
+764,CUS-000764,Germany,Lower Saxony,Poor,Partner Bank
+765,CUS-000765,Germany,Hesse,Fair,Partner Bank
+766,CUS-000766,Germany,Bavaria,Poor,Online
+767,CUS-000767,Netherlands,North Holland,Poor,Direct Sales
+768,CUS-000768,Germany,Lower Saxony,Excellent,Partner Bank
+769,CUS-000769,Germany,Berlin,Excellent,Online
+770,CUS-000770,Germany,Berlin,Poor,Installer Referral
+771,CUS-000771,Germany,Lower Saxony,Fair,Direct Sales
+772,CUS-000772,Germany,Bavaria,Fair,Online
+773,CUS-000773,Germany,Lower Saxony,Excellent,Installer Referral
+774,CUS-000774,Germany,Hesse,Fair,Marketplace
+775,CUS-000775,Netherlands,North Brabant,Fair,Partner Bank
+776,CUS-000776,Austria,Upper Austria,Poor,Installer Referral
+777,CUS-000777,Germany,Hesse,Fair,Installer Referral
+778,CUS-000778,Germany,North Rhine-Westphalia,Fair,Partner Bank
+779,CUS-000779,Germany,Lower Saxony,Poor,Installer Referral
+780,CUS-000780,Germany,Berlin,Good,Installer Referral
+781,CUS-000781,Germany,Baden-Württemberg,Fair,Installer Referral
+782,CUS-000782,Germany,Lower Saxony,Poor,Partner Bank
+783,CUS-000783,Netherlands,North Holland,Excellent,Marketplace
+784,CUS-000784,Germany,Baden-Württemberg,Good,Online
+785,CUS-000785,Germany,North Rhine-Westphalia,Good,Direct Sales
+786,CUS-000786,Germany,Lower Saxony,Fair,Direct Sales
+787,CUS-000787,Austria,Styria,Fair,Installer Referral
+788,CUS-000788,Austria,Upper Austria,Excellent,Direct Sales
+789,CUS-000789,Austria,Vienna,Excellent,Direct Sales
+790,CUS-000790,Germany,Bavaria,Good,Online
+791,CUS-000791,Netherlands,North Brabant,Excellent,Installer Referral
+792,CUS-000792,Germany,Lower Saxony,Fair,Installer Referral
+793,CUS-000793,Germany,Baden-Württemberg,Good,Online
+794,CUS-000794,Netherlands,South Holland,Fair,Installer Referral
+795,CUS-000795,Germany,Baden-Württemberg,Fair,Partner Bank
+796,CUS-000796,Germany,Lower Saxony,Excellent,Direct Sales
+797,CUS-000797,Austria,Vienna,Poor,Online
+798,CUS-000798,Germany,Baden-Württemberg,Fair,Online
+799,CUS-000799,Austria,Styria,Excellent,Direct Sales
+800,CUS-000800,Germany,Hesse,Fair,Installer Referral
+801,CUS-000801,Germany,Baden-Württemberg,Fair,Partner Bank
+802,CUS-000802,Germany,Lower Saxony,Poor,Online
+803,CUS-000803,Germany,Baden-Württemberg,Fair,Direct Sales
+804,CUS-000804,Germany,Bavaria,Excellent,Marketplace
+805,CUS-000805,Netherlands,South Holland,Fair,Online
+806,CUS-000806,Germany,Berlin,Excellent,Installer Referral
+807,CUS-000807,Netherlands,North Brabant,Good,Installer Referral
+808,CUS-000808,Germany,Berlin,Good,Installer Referral
+809,CUS-000809,Austria,Vienna,Fair,Direct Sales
+810,CUS-000810,Germany,Berlin,Good,Installer Referral
+811,CUS-000811,Germany,Lower Saxony,Poor,Installer Referral
+812,CUS-000812,Germany,Lower Saxony,Fair,Online
+813,CUS-000813,Netherlands,North Holland,Good,Partner Bank
+814,CUS-000814,Germany,Berlin,Fair,Direct Sales
+815,CUS-000815,Germany,Hesse,Good,Installer Referral
+816,CUS-000816,Germany,Hesse,Excellent,Installer Referral
+817,CUS-000817,Germany,Baden-Württemberg,Fair,Online
+818,CUS-000818,Netherlands,North Brabant,Poor,Partner Bank
+819,CUS-000819,Germany,North Rhine-Westphalia,Fair,Installer Referral
+820,CUS-000820,Austria,Upper Austria,Good,Online
+821,CUS-000821,Germany,Bavaria,Good,Direct Sales
+822,CUS-000822,Germany,Hesse,Excellent,Direct Sales
+823,CUS-000823,Germany,Berlin,Good,Installer Referral
+824,CUS-000824,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+825,CUS-000825,Germany,Hesse,Poor,Marketplace
+826,CUS-000826,Germany,Berlin,Excellent,Installer Referral
+827,CUS-000827,Germany,North Rhine-Westphalia,Good,Installer Referral
+828,CUS-000828,Germany,North Rhine-Westphalia,Fair,Installer Referral
+829,CUS-000829,Austria,Upper Austria,Fair,Partner Bank
+830,CUS-000830,Germany,Lower Saxony,Fair,Online
+831,CUS-000831,Netherlands,South Holland,Excellent,Online
+832,CUS-000832,Austria,Vienna,Poor,Partner Bank
+833,CUS-000833,Germany,Bavaria,Fair,Online
+834,CUS-000834,Germany,Berlin,Poor,Installer Referral
+835,CUS-000835,Germany,Hesse,Fair,Installer Referral
+836,CUS-000836,Austria,Upper Austria,Poor,Online
+837,CUS-000837,Germany,Hesse,Good,Direct Sales
+838,CUS-000838,Netherlands,South Holland,Poor,Online
+839,CUS-000839,Austria,Vienna,Poor,Direct Sales
+840,CUS-000840,Germany,North Rhine-Westphalia,Good,Marketplace
+841,CUS-000841,Germany,Bavaria,Fair,Installer Referral
+842,CUS-000842,Germany,Berlin,Fair,Installer Referral
+843,CUS-000843,Germany,Hesse,Fair,Online
+844,CUS-000844,Germany,Bavaria,Fair,Installer Referral
+845,CUS-000845,Germany,Lower Saxony,Good,Installer Referral
+846,CUS-000846,Germany,Berlin,Excellent,Partner Bank
+847,CUS-000847,Germany,Baden-Württemberg,Good,Installer Referral
+848,CUS-000848,Germany,Hesse,Fair,Installer Referral
+849,CUS-000849,Austria,Vienna,Good,Online
+850,CUS-000850,Germany,Bavaria,Good,Online
+851,CUS-000851,Austria,Styria,Poor,Installer Referral
+852,CUS-000852,Germany,North Rhine-Westphalia,Excellent,Online
+853,CUS-000853,Germany,Lower Saxony,Good,Installer Referral
+854,CUS-000854,Germany,Bavaria,Fair,Partner Bank
+855,CUS-000855,Germany,Bavaria,Fair,Installer Referral
+856,CUS-000856,Austria,Upper Austria,Fair,Online
+857,CUS-000857,Netherlands,South Holland,Good,Installer Referral
+858,CUS-000858,Germany,Bavaria,Poor,Installer Referral
+859,CUS-000859,Germany,Lower Saxony,Fair,Installer Referral
+860,CUS-000860,Austria,Vienna,Excellent,Installer Referral
+861,CUS-000861,Germany,Baden-Württemberg,Good,Online
+862,CUS-000862,Germany,Berlin,Excellent,Direct Sales
+863,CUS-000863,Germany,Lower Saxony,Good,Online
+864,CUS-000864,Austria,Styria,Poor,Partner Bank
+865,CUS-000865,Germany,North Rhine-Westphalia,Excellent,Partner Bank
+866,CUS-000866,Germany,North Rhine-Westphalia,Excellent,Direct Sales
+867,CUS-000867,Germany,Hesse,Fair,Installer Referral
+868,CUS-000868,Germany,Baden-Württemberg,Fair,Direct Sales
+869,CUS-000869,Austria,Styria,Poor,Installer Referral
+870,CUS-000870,Netherlands,North Holland,Poor,Online
+871,CUS-000871,Germany,Berlin,Good,Partner Bank
+872,CUS-000872,Germany,Berlin,Fair,Online
+873,CUS-000873,Netherlands,North Brabant,Poor,Online
+874,CUS-000874,Germany,Hesse,Excellent,Partner Bank
+875,CUS-000875,Germany,Baden-Württemberg,Fair,Online
+876,CUS-000876,Germany,Hesse,Poor,Online
+877,CUS-000877,Germany,North Rhine-Westphalia,Good,Online
+878,CUS-000878,Germany,North Rhine-Westphalia,Excellent,Online
+879,CUS-000879,Germany,Baden-Württemberg,Excellent,Installer Referral
+880,CUS-000880,Germany,Lower Saxony,Fair,Installer Referral
+881,CUS-000881,Germany,Hesse,Good,Direct Sales
+882,CUS-000882,Germany,Bavaria,Poor,Partner Bank
+883,CUS-000883,Germany,Lower Saxony,Good,Online
+884,CUS-000884,Germany,Bavaria,Fair,Marketplace
+885,CUS-000885,Germany,Hesse,Fair,Partner Bank
+886,CUS-000886,Germany,Baden-Württemberg,Good,Installer Referral
+887,CUS-000887,Germany,Lower Saxony,Good,Partner Bank
+888,CUS-000888,Germany,Berlin,Fair,Partner Bank
+889,CUS-000889,Germany,Berlin,Good,Installer Referral
+890,CUS-000890,Austria,Upper Austria,Good,Installer Referral
+891,CUS-000891,Germany,North Rhine-Westphalia,Good,Direct Sales
+892,CUS-000892,Austria,Upper Austria,Excellent,Online
+893,CUS-000893,Germany,Lower Saxony,Good,Direct Sales
+894,CUS-000894,Germany,Baden-Württemberg,Excellent,Online
+895,CUS-000895,Netherlands,North Brabant,Fair,Partner Bank
+896,CUS-000896,Germany,Berlin,Fair,Online
+897,CUS-000897,Netherlands,North Holland,Good,Installer Referral
+898,CUS-000898,Netherlands,North Brabant,Good,Online
+899,CUS-000899,Netherlands,North Holland,Fair,Installer Referral
+900,CUS-000900,Austria,Vienna,Good,Online
+901,CUS-000901,Austria,Styria,Poor,Online
+902,CUS-000902,Germany,Berlin,Fair,Installer Referral
+903,CUS-000903,Netherlands,South Holland,Good,Installer Referral
+904,CUS-000904,Germany,Berlin,Poor,Online
+905,CUS-000905,Austria,Styria,Poor,Partner Bank
+906,CUS-000906,Netherlands,North Brabant,Good,Installer Referral
+907,CUS-000907,Austria,Styria,Good,Partner Bank
+908,CUS-000908,Netherlands,North Brabant,Poor,Installer Referral
+909,CUS-000909,Germany,Berlin,Good,Installer Referral
+910,CUS-000910,Germany,Lower Saxony,Fair,Marketplace
+911,CUS-000911,Austria,Styria,Fair,Direct Sales
+912,CUS-000912,Germany,Lower Saxony,Fair,Online
+913,CUS-000913,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+914,CUS-000914,Germany,North Rhine-Westphalia,Poor,Partner Bank
+915,CUS-000915,Germany,Bavaria,Fair,Installer Referral
+916,CUS-000916,Austria,Vienna,Good,Online
+917,CUS-000917,Germany,Berlin,Fair,Direct Sales
+918,CUS-000918,Austria,Styria,Good,Online
+919,CUS-000919,Austria,Styria,Good,Partner Bank
+920,CUS-000920,Netherlands,South Holland,Good,Partner Bank
+921,CUS-000921,Germany,Hesse,Excellent,Partner Bank
+922,CUS-000922,Germany,Lower Saxony,Fair,Direct Sales
+923,CUS-000923,Austria,Styria,Good,Online
+924,CUS-000924,Austria,Vienna,Fair,Marketplace
+925,CUS-000925,Germany,North Rhine-Westphalia,Poor,Installer Referral
+926,CUS-000926,Netherlands,North Brabant,Good,Installer Referral
+927,CUS-000927,Germany,Hesse,Good,Installer Referral
+928,CUS-000928,Austria,Vienna,Good,Partner Bank
+929,CUS-000929,Germany,North Rhine-Westphalia,Poor,Online
+930,CUS-000930,Austria,Styria,Fair,Partner Bank
+931,CUS-000931,Germany,Hesse,Fair,Installer Referral
+932,CUS-000932,Austria,Styria,Good,Installer Referral
+933,CUS-000933,Germany,Hesse,Excellent,Online
+934,CUS-000934,Germany,Baden-Württemberg,Good,Installer Referral
+935,CUS-000935,Germany,Baden-Württemberg,Good,Marketplace
+936,CUS-000936,Germany,Lower Saxony,Poor,Direct Sales
+937,CUS-000937,Netherlands,North Holland,Excellent,Installer Referral
+938,CUS-000938,Germany,Berlin,Fair,Online
+939,CUS-000939,Netherlands,North Brabant,Poor,Installer Referral
+940,CUS-000940,Austria,Vienna,Good,Online
+941,CUS-000941,Germany,Hesse,Fair,Installer Referral
+942,CUS-000942,Austria,Upper Austria,Good,Installer Referral
+943,CUS-000943,Germany,Baden-Württemberg,Good,Marketplace
+944,CUS-000944,Germany,Hesse,Good,Online
+945,CUS-000945,Germany,Berlin,Fair,Direct Sales
+946,CUS-000946,Germany,Bavaria,Good,Direct Sales
+947,CUS-000947,Austria,Styria,Fair,Online
+948,CUS-000948,Netherlands,North Brabant,Fair,Installer Referral
+949,CUS-000949,Austria,Vienna,Excellent,Installer Referral
+950,CUS-000950,Austria,Styria,Excellent,Direct Sales
+951,CUS-000951,Netherlands,South Holland,Good,Online
+952,CUS-000952,Germany,Bavaria,Good,Installer Referral
+953,CUS-000953,Germany,Berlin,Fair,Partner Bank
+954,CUS-000954,Germany,Berlin,Fair,Installer Referral
+955,CUS-000955,Germany,Baden-Württemberg,Fair,Installer Referral
+956,CUS-000956,Germany,Lower Saxony,Good,Direct Sales
+957,CUS-000957,Germany,North Rhine-Westphalia,Good,Installer Referral
+958,CUS-000958,Germany,Hesse,Good,Online
+959,CUS-000959,Germany,Berlin,Fair,Marketplace
+960,CUS-000960,Germany,Hesse,Excellent,Installer Referral
+961,CUS-000961,Germany,Lower Saxony,Good,Marketplace
+962,CUS-000962,Germany,Berlin,Fair,Partner Bank
+963,CUS-000963,Germany,Berlin,Poor,Installer Referral
+964,CUS-000964,Germany,Hesse,Fair,Installer Referral
+965,CUS-000965,Germany,Hesse,Poor,Direct Sales
+966,CUS-000966,Netherlands,North Brabant,Good,Online
+967,CUS-000967,Germany,Bavaria,Good,Installer Referral
+968,CUS-000968,Germany,Baden-Württemberg,Good,Partner Bank
+969,CUS-000969,Germany,Baden-Württemberg,Fair,Direct Sales
+970,CUS-000970,Germany,Lower Saxony,Good,Partner Bank
+971,CUS-000971,Germany,North Rhine-Westphalia,Fair,Installer Referral
+972,CUS-000972,Germany,Lower Saxony,Excellent,Installer Referral
+973,CUS-000973,Austria,Styria,Fair,Online
+974,CUS-000974,Austria,Vienna,Fair,Installer Referral
+975,CUS-000975,Germany,Lower Saxony,Good,Installer Referral
+976,CUS-000976,Germany,North Rhine-Westphalia,Fair,Installer Referral
+977,CUS-000977,Germany,North Rhine-Westphalia,Poor,Installer Referral
+978,CUS-000978,Austria,Styria,Excellent,Installer Referral
+979,CUS-000979,Germany,Hesse,Fair,Direct Sales
+980,CUS-000980,Germany,Hesse,Good,Installer Referral
+981,CUS-000981,Germany,Hesse,Good,Partner Bank
+982,CUS-000982,Germany,North Rhine-Westphalia,Poor,Online
+983,CUS-000983,Austria,Vienna,Good,Online
+984,CUS-000984,Germany,Hesse,Excellent,Installer Referral
+985,CUS-000985,Netherlands,North Brabant,Fair,Partner Bank
+986,CUS-000986,Germany,North Rhine-Westphalia,Excellent,Marketplace
+987,CUS-000987,Germany,North Rhine-Westphalia,Fair,Online
+988,CUS-000988,Germany,North Rhine-Westphalia,Fair,Installer Referral
+989,CUS-000989,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+990,CUS-000990,Netherlands,South Holland,Good,Direct Sales
+991,CUS-000991,Austria,Vienna,Poor,Installer Referral
+992,CUS-000992,Austria,Styria,Fair,Installer Referral
+993,CUS-000993,Austria,Styria,Good,Installer Referral
+994,CUS-000994,Germany,Baden-Württemberg,Fair,Direct Sales
+995,CUS-000995,Germany,Baden-Württemberg,Good,Direct Sales
+996,CUS-000996,Germany,Baden-Württemberg,Fair,Installer Referral
+997,CUS-000997,Austria,Styria,Excellent,Direct Sales
+998,CUS-000998,Germany,North Rhine-Westphalia,Excellent,Online
+999,CUS-000999,Germany,North Rhine-Westphalia,Excellent,Online
+1000,CUS-001000,Austria,Styria,Good,Direct Sales
+1001,CUS-001001,Austria,Upper Austria,Fair,Online
+1002,CUS-001002,Germany,Berlin,Fair,Installer Referral
+1003,CUS-001003,Germany,Hesse,Fair,Installer Referral
+1004,CUS-001004,Germany,Hesse,Excellent,Installer Referral
+1005,CUS-001005,Netherlands,North Brabant,Poor,Online
+1006,CUS-001006,Germany,Bavaria,Poor,Partner Bank
+1007,CUS-001007,Austria,Vienna,Good,Online
+1008,CUS-001008,Germany,Lower Saxony,Excellent,Direct Sales
+1009,CUS-001009,Germany,Hesse,Fair,Installer Referral
+1010,CUS-001010,Germany,Baden-Württemberg,Excellent,Partner Bank
+1011,CUS-001011,Netherlands,North Brabant,Fair,Installer Referral
+1012,CUS-001012,Germany,Bavaria,Excellent,Online
+1013,CUS-001013,Netherlands,North Brabant,Good,Installer Referral
+1014,CUS-001014,Germany,Lower Saxony,Poor,Online
+1015,CUS-001015,Austria,Styria,Good,Installer Referral
+1016,CUS-001016,Germany,North Rhine-Westphalia,Poor,Online
+1017,CUS-001017,Germany,Berlin,Fair,Online
+1018,CUS-001018,Germany,Bavaria,Fair,Online
+1019,CUS-001019,Netherlands,South Holland,Fair,Installer Referral
+1020,CUS-001020,Germany,Berlin,Poor,Direct Sales
+1021,CUS-001021,Germany,Lower Saxony,Excellent,Online
+1022,CUS-001022,Germany,Bavaria,Good,Direct Sales
+1023,CUS-001023,Germany,North Rhine-Westphalia,Excellent,Partner Bank
+1024,CUS-001024,Germany,Hesse,Excellent,Installer Referral
+1025,CUS-001025,Germany,Berlin,Fair,Online
+1026,CUS-001026,Germany,Lower Saxony,Fair,Installer Referral
+1027,CUS-001027,Austria,Upper Austria,Fair,Online
+1028,CUS-001028,Netherlands,South Holland,Fair,Online
+1029,CUS-001029,Austria,Upper Austria,Excellent,Online
+1030,CUS-001030,Germany,Baden-Württemberg,Fair,Partner Bank
+1031,CUS-001031,Germany,North Rhine-Westphalia,Poor,Partner Bank
+1032,CUS-001032,Austria,Upper Austria,Fair,Marketplace
+1033,CUS-001033,Germany,Hesse,Good,Installer Referral
+1034,CUS-001034,Germany,Berlin,Fair,Installer Referral
+1035,CUS-001035,Germany,Berlin,Excellent,Installer Referral
+1036,CUS-001036,Germany,Hesse,Good,Installer Referral
+1037,CUS-001037,Germany,Bavaria,Fair,Partner Bank
+1038,CUS-001038,Netherlands,South Holland,Fair,Online
+1039,CUS-001039,Austria,Styria,Excellent,Partner Bank
+1040,CUS-001040,Germany,Lower Saxony,Good,Installer Referral
+1041,CUS-001041,Germany,Hesse,Good,Installer Referral
+1042,CUS-001042,Germany,Hesse,Fair,Online
+1043,CUS-001043,Germany,Baden-Württemberg,Good,Installer Referral
+1044,CUS-001044,Germany,Baden-Württemberg,Fair,Installer Referral
+1045,CUS-001045,Germany,Hesse,Good,Installer Referral
+1046,CUS-001046,Austria,Vienna,Good,Partner Bank
+1047,CUS-001047,Germany,Hesse,Good,Marketplace
+1048,CUS-001048,Germany,Hesse,Poor,Online
+1049,CUS-001049,Germany,Bavaria,Good,Online
+1050,CUS-001050,Germany,Bavaria,Good,Installer Referral
+1051,CUS-001051,Germany,Hesse,Poor,Direct Sales
+1052,CUS-001052,Austria,Styria,Good,Online
+1053,CUS-001053,Germany,Lower Saxony,Fair,Partner Bank
+1054,CUS-001054,Netherlands,South Holland,Fair,Direct Sales
+1055,CUS-001055,Austria,Upper Austria,Excellent,Installer Referral
+1056,CUS-001056,Germany,North Rhine-Westphalia,Fair,Installer Referral
+1057,CUS-001057,Germany,Baden-Württemberg,Good,Installer Referral
+1058,CUS-001058,Austria,Vienna,Good,Installer Referral
+1059,CUS-001059,Austria,Upper Austria,Excellent,Marketplace
+1060,CUS-001060,Germany,Baden-Württemberg,Good,Online
+1061,CUS-001061,Germany,Berlin,Fair,Direct Sales
+1062,CUS-001062,Germany,North Rhine-Westphalia,Good,Installer Referral
+1063,CUS-001063,Germany,North Rhine-Westphalia,Good,Installer Referral
+1064,CUS-001064,Germany,North Rhine-Westphalia,Fair,Installer Referral
+1065,CUS-001065,Germany,Berlin,Good,Installer Referral
+1066,CUS-001066,Austria,Vienna,Fair,Installer Referral
+1067,CUS-001067,Germany,Hesse,Poor,Online
+1068,CUS-001068,Netherlands,North Brabant,Good,Installer Referral
+1069,CUS-001069,Germany,Bavaria,Good,Online
+1070,CUS-001070,Netherlands,North Holland,Good,Installer Referral
+1071,CUS-001071,Germany,North Rhine-Westphalia,Good,Installer Referral
+1072,CUS-001072,Germany,Baden-Württemberg,Fair,Installer Referral
+1073,CUS-001073,Germany,Hesse,Excellent,Installer Referral
+1074,CUS-001074,Austria,Vienna,Good,Installer Referral
+1075,CUS-001075,Germany,Hesse,Good,Installer Referral
+1076,CUS-001076,Germany,Lower Saxony,Fair,Installer Referral
+1077,CUS-001077,Austria,Upper Austria,Good,Online
+1078,CUS-001078,Netherlands,North Brabant,Good,Installer Referral
+1079,CUS-001079,Germany,North Rhine-Westphalia,Fair,Direct Sales
+1080,CUS-001080,Germany,Berlin,Excellent,Direct Sales
+1081,CUS-001081,Germany,Lower Saxony,Excellent,Direct Sales
+1082,CUS-001082,Germany,Hesse,Fair,Partner Bank
+1083,CUS-001083,Germany,Hesse,Poor,Installer Referral
+1084,CUS-001084,Germany,North Rhine-Westphalia,Excellent,Direct Sales
+1085,CUS-001085,Germany,Berlin,Excellent,Partner Bank
+1086,CUS-001086,Germany,Baden-Württemberg,Fair,Marketplace
+1087,CUS-001087,Germany,Bavaria,Good,Installer Referral
+1088,CUS-001088,Germany,Hesse,Excellent,Online
+1089,CUS-001089,Germany,North Rhine-Westphalia,Poor,Installer Referral
+1090,CUS-001090,Germany,Hesse,Good,Partner Bank
+1091,CUS-001091,Austria,Upper Austria,Fair,Online
+1092,CUS-001092,Netherlands,North Holland,Fair,Marketplace
+1093,CUS-001093,Germany,Hesse,Fair,Direct Sales
+1094,CUS-001094,Germany,North Rhine-Westphalia,Good,Installer Referral
+1095,CUS-001095,Germany,Berlin,Good,Online
+1096,CUS-001096,Germany,Lower Saxony,Fair,Marketplace
+1097,CUS-001097,Austria,Styria,Poor,Online
+1098,CUS-001098,Germany,Bavaria,Excellent,Installer Referral
+1099,CUS-001099,Germany,Berlin,Fair,Installer Referral
+1100,CUS-001100,Germany,Bavaria,Excellent,Marketplace
+1101,CUS-001101,Germany,Bavaria,Excellent,Installer Referral
+1102,CUS-001102,Austria,Vienna,Excellent,Online
+1103,CUS-001103,Germany,Lower Saxony,Good,Installer Referral
+1104,CUS-001104,Germany,Berlin,Excellent,Online
+1105,CUS-001105,Germany,Bavaria,Fair,Direct Sales
+1106,CUS-001106,Germany,Lower Saxony,Good,Direct Sales
+1107,CUS-001107,Netherlands,North Brabant,Good,Marketplace
+1108,CUS-001108,Germany,North Rhine-Westphalia,Fair,Online
+1109,CUS-001109,Austria,Styria,Good,Online
+1110,CUS-001110,Germany,Baden-Württemberg,Good,Installer Referral
+1111,CUS-001111,Germany,Baden-Württemberg,Good,Installer Referral
+1112,CUS-001112,Germany,Bavaria,Good,Partner Bank
+1113,CUS-001113,Germany,Baden-Württemberg,Good,Installer Referral
+1114,CUS-001114,Netherlands,South Holland,Good,Partner Bank
+1115,CUS-001115,Austria,Styria,Good,Installer Referral
+1116,CUS-001116,Germany,Lower Saxony,Poor,Online
+1117,CUS-001117,Germany,Berlin,Fair,Installer Referral
+1118,CUS-001118,Germany,Baden-Württemberg,Excellent,Online
+1119,CUS-001119,Germany,Hesse,Fair,Partner Bank
+1120,CUS-001120,Germany,Berlin,Good,Installer Referral
+1121,CUS-001121,Germany,Bavaria,Excellent,Installer Referral
+1122,CUS-001122,Germany,Hesse,Good,Partner Bank
+1123,CUS-001123,Germany,Baden-Württemberg,Excellent,Installer Referral
+1124,CUS-001124,Germany,North Rhine-Westphalia,Poor,Installer Referral
+1125,CUS-001125,Germany,Lower Saxony,Fair,Installer Referral
+1126,CUS-001126,Germany,Lower Saxony,Good,Online
+1127,CUS-001127,Austria,Upper Austria,Poor,Online
+1128,CUS-001128,Austria,Upper Austria,Excellent,Partner Bank
+1129,CUS-001129,Germany,Baden-Württemberg,Fair,Installer Referral
+1130,CUS-001130,Germany,North Rhine-Westphalia,Poor,Installer Referral
+1131,CUS-001131,Germany,Bavaria,Excellent,Partner Bank
+1132,CUS-001132,Germany,Lower Saxony,Good,Marketplace
+1133,CUS-001133,Germany,Berlin,Fair,Online
+1134,CUS-001134,Netherlands,South Holland,Good,Marketplace
+1135,CUS-001135,Netherlands,North Holland,Fair,Installer Referral
+1136,CUS-001136,Netherlands,North Brabant,Excellent,Online
+1137,CUS-001137,Germany,Baden-Württemberg,Poor,Direct Sales
+1138,CUS-001138,Germany,Bavaria,Good,Online
+1139,CUS-001139,Germany,Baden-Württemberg,Fair,Installer Referral
+1140,CUS-001140,Germany,Bavaria,Fair,Partner Bank
+1141,CUS-001141,Germany,North Rhine-Westphalia,Good,Installer Referral
+1142,CUS-001142,Germany,Bavaria,Fair,Installer Referral
+1143,CUS-001143,Netherlands,North Brabant,Excellent,Installer Referral
+1144,CUS-001144,Germany,Hesse,Fair,Installer Referral
+1145,CUS-001145,Germany,Hesse,Fair,Partner Bank
+1146,CUS-001146,Austria,Upper Austria,Fair,Installer Referral
+1147,CUS-001147,Germany,Berlin,Excellent,Direct Sales
+1148,CUS-001148,Germany,Lower Saxony,Fair,Online
+1149,CUS-001149,Germany,Hesse,Excellent,Installer Referral
+1150,CUS-001150,Austria,Upper Austria,Poor,Online
+1151,CUS-001151,Austria,Vienna,Excellent,Installer Referral
+1152,CUS-001152,Germany,Baden-Württemberg,Good,Online
+1153,CUS-001153,Austria,Styria,Good,Installer Referral
+1154,CUS-001154,Germany,Baden-Württemberg,Fair,Installer Referral
+1155,CUS-001155,Austria,Styria,Poor,Direct Sales
+1156,CUS-001156,Germany,Berlin,Good,Online
+1157,CUS-001157,Germany,Baden-Württemberg,Good,Installer Referral
+1158,CUS-001158,Germany,Berlin,Excellent,Direct Sales
+1159,CUS-001159,Germany,Bavaria,Good,Online
+1160,CUS-001160,Germany,Hesse,Fair,Installer Referral
+1161,CUS-001161,Germany,Hesse,Fair,Installer Referral
+1162,CUS-001162,Germany,Hesse,Fair,Installer Referral
+1163,CUS-001163,Netherlands,North Brabant,Good,Direct Sales
+1164,CUS-001164,Germany,Berlin,Excellent,Online
+1165,CUS-001165,Netherlands,South Holland,Fair,Partner Bank
+1166,CUS-001166,Germany,Hesse,Good,Installer Referral
+1167,CUS-001167,Germany,Baden-Württemberg,Excellent,Installer Referral
+1168,CUS-001168,Germany,Bavaria,Fair,Online
+1169,CUS-001169,Germany,Hesse,Fair,Online
+1170,CUS-001170,Netherlands,North Brabant,Fair,Online
+1171,CUS-001171,Germany,Berlin,Fair,Partner Bank
+1172,CUS-001172,Austria,Upper Austria,Poor,Installer Referral
+1173,CUS-001173,Germany,Lower Saxony,Good,Partner Bank
+1174,CUS-001174,Germany,Hesse,Good,Installer Referral
+1175,CUS-001175,Germany,Baden-Württemberg,Fair,Online
+1176,CUS-001176,Germany,Berlin,Good,Installer Referral
+1177,CUS-001177,Germany,Lower Saxony,Fair,Marketplace
+1178,CUS-001178,Germany,Lower Saxony,Good,Installer Referral
+1179,CUS-001179,Austria,Upper Austria,Fair,Online
+1180,CUS-001180,Netherlands,South Holland,Excellent,Marketplace
+1181,CUS-001181,Germany,Baden-Württemberg,Excellent,Direct Sales
+1182,CUS-001182,Germany,Baden-Württemberg,Poor,Online
+1183,CUS-001183,Germany,Hesse,Excellent,Installer Referral
+1184,CUS-001184,Germany,North Rhine-Westphalia,Good,Direct Sales
+1185,CUS-001185,Germany,Baden-Württemberg,Fair,Installer Referral
+1186,CUS-001186,Germany,North Rhine-Westphalia,Fair,Partner Bank
+1187,CUS-001187,Austria,Vienna,Good,Direct Sales
+1188,CUS-001188,Austria,Vienna,Fair,Installer Referral
+1189,CUS-001189,Austria,Styria,Good,Partner Bank
+1190,CUS-001190,Netherlands,South Holland,Good,Direct Sales
+1191,CUS-001191,Germany,Bavaria,Poor,Installer Referral
+1192,CUS-001192,Germany,Hesse,Poor,Online
+1193,CUS-001193,Germany,Bavaria,Good,Installer Referral
+1194,CUS-001194,Germany,North Rhine-Westphalia,Good,Partner Bank
+1195,CUS-001195,Germany,Berlin,Fair,Installer Referral
+1196,CUS-001196,Germany,Hesse,Fair,Installer Referral
+1197,CUS-001197,Germany,Lower Saxony,Excellent,Installer Referral
+1198,CUS-001198,Germany,Berlin,Excellent,Installer Referral
+1199,CUS-001199,Germany,Hesse,Good,Partner Bank
+1200,CUS-001200,Austria,Upper Austria,Fair,Online
+1201,CUS-001201,Germany,North Rhine-Westphalia,Fair,Marketplace
+1202,CUS-001202,Germany,North Rhine-Westphalia,Excellent,Partner Bank
+1203,CUS-001203,Germany,Hesse,Excellent,Partner Bank
+1204,CUS-001204,Germany,Baden-Württemberg,Excellent,Installer Referral
+1205,CUS-001205,Germany,Baden-Württemberg,Excellent,Installer Referral
+1206,CUS-001206,Austria,Upper Austria,Fair,Online
+1207,CUS-001207,Netherlands,North Holland,Excellent,Installer Referral
+1208,CUS-001208,Austria,Vienna,Excellent,Installer Referral
+1209,CUS-001209,Netherlands,North Holland,Poor,Direct Sales
+1210,CUS-001210,Germany,Berlin,Fair,Installer Referral
+1211,CUS-001211,Germany,Baden-Württemberg,Good,Online
+1212,CUS-001212,Germany,Hesse,Fair,Online
+1213,CUS-001213,Germany,North Rhine-Westphalia,Fair,Partner Bank
+1214,CUS-001214,Germany,Berlin,Good,Installer Referral
+1215,CUS-001215,Germany,North Rhine-Westphalia,Fair,Online
+1216,CUS-001216,Germany,Berlin,Poor,Installer Referral
+1217,CUS-001217,Germany,Berlin,Poor,Partner Bank
+1218,CUS-001218,Austria,Vienna,Good,Direct Sales
+1219,CUS-001219,Germany,Lower Saxony,Good,Partner Bank
+1220,CUS-001220,Netherlands,South Holland,Poor,Online
+1221,CUS-001221,Germany,Hesse,Poor,Online
+1222,CUS-001222,Austria,Vienna,Good,Online
+1223,CUS-001223,Germany,Lower Saxony,Fair,Installer Referral
+1224,CUS-001224,Germany,Baden-Württemberg,Fair,Installer Referral
+1225,CUS-001225,Netherlands,North Brabant,Good,Installer Referral
+1226,CUS-001226,Germany,Lower Saxony,Poor,Direct Sales
+1227,CUS-001227,Germany,Hesse,Poor,Installer Referral
+1228,CUS-001228,Germany,Lower Saxony,Fair,Installer Referral
+1229,CUS-001229,Germany,Berlin,Fair,Online
+1230,CUS-001230,Germany,North Rhine-Westphalia,Fair,Online
+1231,CUS-001231,Germany,Hesse,Good,Online
+1232,CUS-001232,Germany,North Rhine-Westphalia,Fair,Partner Bank
+1233,CUS-001233,Germany,North Rhine-Westphalia,Good,Partner Bank
+1234,CUS-001234,Germany,North Rhine-Westphalia,Good,Direct Sales
+1235,CUS-001235,Austria,Styria,Poor,Direct Sales
+1236,CUS-001236,Germany,Hesse,Good,Partner Bank
+1237,CUS-001237,Germany,North Rhine-Westphalia,Fair,Partner Bank
+1238,CUS-001238,Austria,Upper Austria,Poor,Installer Referral
+1239,CUS-001239,Austria,Styria,Poor,Installer Referral
+1240,CUS-001240,Austria,Vienna,Excellent,Installer Referral
+1241,CUS-001241,Netherlands,North Brabant,Good,Online
+1242,CUS-001242,Germany,North Rhine-Westphalia,Good,Installer Referral
+1243,CUS-001243,Germany,Lower Saxony,Excellent,Direct Sales
+1244,CUS-001244,Germany,Berlin,Good,Direct Sales
+1245,CUS-001245,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+1246,CUS-001246,Germany,Bavaria,Poor,Marketplace
+1247,CUS-001247,Germany,Berlin,Poor,Partner Bank
+1248,CUS-001248,Germany,Lower Saxony,Poor,Online
+1249,CUS-001249,Germany,Lower Saxony,Poor,Online
+1250,CUS-001250,Austria,Styria,Fair,Installer Referral
+1251,CUS-001251,Germany,Hesse,Poor,Online
+1252,CUS-001252,Germany,Berlin,Poor,Partner Bank
+1253,CUS-001253,Germany,Lower Saxony,Good,Direct Sales
+1254,CUS-001254,Austria,Vienna,Good,Installer Referral
+1255,CUS-001255,Austria,Styria,Good,Partner Bank
+1256,CUS-001256,Netherlands,North Holland,Good,Installer Referral
+1257,CUS-001257,Germany,Baden-Württemberg,Good,Online
+1258,CUS-001258,Germany,Bavaria,Fair,Direct Sales
+1259,CUS-001259,Germany,Berlin,Good,Partner Bank
+1260,CUS-001260,Germany,Hesse,Poor,Partner Bank
+1261,CUS-001261,Germany,Lower Saxony,Good,Installer Referral
+1262,CUS-001262,Germany,Berlin,Poor,Direct Sales
+1263,CUS-001263,Germany,Baden-Württemberg,Fair,Direct Sales
+1264,CUS-001264,Austria,Styria,Fair,Installer Referral
+1265,CUS-001265,Austria,Styria,Good,Online
+1266,CUS-001266,Germany,Hesse,Fair,Installer Referral
+1267,CUS-001267,Germany,Bavaria,Fair,Direct Sales
+1268,CUS-001268,Germany,Berlin,Poor,Installer Referral
+1269,CUS-001269,Germany,Berlin,Excellent,Installer Referral
+1270,CUS-001270,Austria,Upper Austria,Good,Installer Referral
+1271,CUS-001271,Austria,Vienna,Excellent,Partner Bank
+1272,CUS-001272,Germany,Lower Saxony,Poor,Online
+1273,CUS-001273,Germany,Lower Saxony,Good,Online
+1274,CUS-001274,Germany,Lower Saxony,Good,Online
+1275,CUS-001275,Germany,Hesse,Good,Online
+1276,CUS-001276,Austria,Vienna,Excellent,Installer Referral
+1277,CUS-001277,Germany,Bavaria,Excellent,Installer Referral
+1278,CUS-001278,Germany,Hesse,Good,Marketplace
+1279,CUS-001279,Germany,Lower Saxony,Poor,Installer Referral
+1280,CUS-001280,Germany,Berlin,Fair,Online
+1281,CUS-001281,Austria,Vienna,Poor,Partner Bank
+1282,CUS-001282,Germany,Bavaria,Excellent,Installer Referral
+1283,CUS-001283,Germany,Lower Saxony,Fair,Partner Bank
+1284,CUS-001284,Austria,Vienna,Good,Installer Referral
+1285,CUS-001285,Germany,Baden-Württemberg,Good,Online
+1286,CUS-001286,Germany,North Rhine-Westphalia,Fair,Installer Referral
+1287,CUS-001287,Austria,Styria,Good,Installer Referral
+1288,CUS-001288,Austria,Styria,Poor,Marketplace
+1289,CUS-001289,Germany,Hesse,Fair,Installer Referral
+1290,CUS-001290,Germany,Hesse,Good,Installer Referral
+1291,CUS-001291,Germany,Hesse,Fair,Online
+1292,CUS-001292,Austria,Styria,Good,Installer Referral
+1293,CUS-001293,Germany,Bavaria,Excellent,Online
+1294,CUS-001294,Germany,North Rhine-Westphalia,Fair,Marketplace
+1295,CUS-001295,Germany,Baden-Württemberg,Good,Direct Sales
+1296,CUS-001296,Germany,Berlin,Good,Installer Referral
+1297,CUS-001297,Austria,Upper Austria,Good,Online
+1298,CUS-001298,Austria,Vienna,Fair,Installer Referral
+1299,CUS-001299,Austria,Styria,Poor,Direct Sales
+1300,CUS-001300,Germany,Baden-Württemberg,Poor,Online
+1301,CUS-001301,Germany,Bavaria,Fair,Online
+1302,CUS-001302,Germany,Hesse,Poor,Online
+1303,CUS-001303,Austria,Styria,Excellent,Online
+1304,CUS-001304,Germany,Berlin,Good,Online
+1305,CUS-001305,Germany,Berlin,Good,Direct Sales
+1306,CUS-001306,Austria,Vienna,Poor,Installer Referral
+1307,CUS-001307,Germany,Lower Saxony,Fair,Direct Sales
+1308,CUS-001308,Germany,Lower Saxony,Excellent,Installer Referral
+1309,CUS-001309,Austria,Upper Austria,Fair,Installer Referral
+1310,CUS-001310,Germany,Lower Saxony,Excellent,Direct Sales
+1311,CUS-001311,Germany,Baden-Württemberg,Good,Installer Referral
+1312,CUS-001312,Germany,Bavaria,Fair,Direct Sales
+1313,CUS-001313,Germany,Bavaria,Fair,Direct Sales
+1314,CUS-001314,Germany,Baden-Württemberg,Poor,Partner Bank
+1315,CUS-001315,Germany,Baden-Württemberg,Excellent,Direct Sales
+1316,CUS-001316,Austria,Styria,Fair,Installer Referral
+1317,CUS-001317,Austria,Upper Austria,Good,Direct Sales
+1318,CUS-001318,Germany,Baden-Württemberg,Poor,Partner Bank
+1319,CUS-001319,Germany,Bavaria,Good,Direct Sales
+1320,CUS-001320,Germany,Berlin,Fair,Installer Referral
+1321,CUS-001321,Austria,Styria,Poor,Installer Referral
+1322,CUS-001322,Germany,Baden-Württemberg,Good,Partner Bank
+1323,CUS-001323,Germany,Baden-Württemberg,Excellent,Installer Referral
+1324,CUS-001324,Germany,Hesse,Fair,Installer Referral
+1325,CUS-001325,Germany,Hesse,Good,Installer Referral
+1326,CUS-001326,Austria,Upper Austria,Fair,Installer Referral
+1327,CUS-001327,Germany,Baden-Württemberg,Good,Installer Referral
+1328,CUS-001328,Germany,Berlin,Excellent,Installer Referral
+1329,CUS-001329,Germany,Lower Saxony,Excellent,Online
+1330,CUS-001330,Germany,Berlin,Fair,Online
+1331,CUS-001331,Germany,North Rhine-Westphalia,Fair,Partner Bank
+1332,CUS-001332,Germany,Lower Saxony,Fair,Installer Referral
+1333,CUS-001333,Austria,Styria,Good,Online
+1334,CUS-001334,Germany,Berlin,Fair,Online
+1335,CUS-001335,Netherlands,North Holland,Poor,Online
+1336,CUS-001336,Netherlands,South Holland,Excellent,Direct Sales
+1337,CUS-001337,Germany,Baden-Württemberg,Good,Installer Referral
+1338,CUS-001338,Germany,Baden-Württemberg,Good,Direct Sales
+1339,CUS-001339,Germany,Baden-Württemberg,Fair,Installer Referral
+1340,CUS-001340,Germany,Berlin,Fair,Installer Referral
+1341,CUS-001341,Germany,Baden-Württemberg,Good,Online
+1342,CUS-001342,Germany,Hesse,Good,Installer Referral
+1343,CUS-001343,Germany,Bavaria,Good,Direct Sales
+1344,CUS-001344,Germany,Lower Saxony,Fair,Installer Referral
+1345,CUS-001345,Germany,North Rhine-Westphalia,Fair,Installer Referral
+1346,CUS-001346,Netherlands,North Brabant,Fair,Installer Referral
+1347,CUS-001347,Germany,Baden-Württemberg,Fair,Direct Sales
+1348,CUS-001348,Germany,Lower Saxony,Excellent,Installer Referral
+1349,CUS-001349,Austria,Upper Austria,Good,Online
+1350,CUS-001350,Germany,North Rhine-Westphalia,Fair,Direct Sales
+1351,CUS-001351,Netherlands,North Brabant,Fair,Partner Bank
+1352,CUS-001352,Germany,Lower Saxony,Good,Installer Referral
+1353,CUS-001353,Germany,North Rhine-Westphalia,Good,Direct Sales
+1354,CUS-001354,Germany,Berlin,Good,Marketplace
+1355,CUS-001355,Germany,Baden-Württemberg,Poor,Online
+1356,CUS-001356,Germany,Hesse,Good,Installer Referral
+1357,CUS-001357,Germany,Baden-Württemberg,Poor,Marketplace
+1358,CUS-001358,Germany,Hesse,Fair,Installer Referral
+1359,CUS-001359,Austria,Vienna,Good,Partner Bank
+1360,CUS-001360,Germany,Baden-Württemberg,Fair,Online
+1361,CUS-001361,Germany,North Rhine-Westphalia,Fair,Online
+1362,CUS-001362,Germany,Lower Saxony,Fair,Installer Referral
+1363,CUS-001363,Germany,Baden-Württemberg,Poor,Partner Bank
+1364,CUS-001364,Germany,Bavaria,Fair,Installer Referral
+1365,CUS-001365,Austria,Styria,Good,Marketplace
+1366,CUS-001366,Germany,Berlin,Fair,Direct Sales
+1367,CUS-001367,Austria,Styria,Fair,Online
+1368,CUS-001368,Germany,Hesse,Good,Direct Sales
+1369,CUS-001369,Germany,North Rhine-Westphalia,Excellent,Online
+1370,CUS-001370,Germany,Berlin,Good,Online
+1371,CUS-001371,Germany,Hesse,Fair,Installer Referral
+1372,CUS-001372,Germany,Lower Saxony,Fair,Installer Referral
+1373,CUS-001373,Germany,Berlin,Excellent,Partner Bank
+1374,CUS-001374,Germany,Baden-Württemberg,Good,Installer Referral
+1375,CUS-001375,Austria,Vienna,Good,Online
+1376,CUS-001376,Germany,Berlin,Excellent,Online
+1377,CUS-001377,Austria,Upper Austria,Fair,Direct Sales
+1378,CUS-001378,Germany,Bavaria,Good,Online
+1379,CUS-001379,Germany,Berlin,Good,Installer Referral
+1380,CUS-001380,Netherlands,South Holland,Good,Installer Referral
+1381,CUS-001381,Netherlands,North Brabant,Good,Partner Bank
+1382,CUS-001382,Germany,Berlin,Good,Installer Referral
+1383,CUS-001383,Germany,Baden-Württemberg,Fair,Online
+1384,CUS-001384,Germany,Bavaria,Excellent,Installer Referral
+1385,CUS-001385,Austria,Upper Austria,Excellent,Installer Referral
+1386,CUS-001386,Austria,Vienna,Fair,Online
+1387,CUS-001387,Netherlands,North Brabant,Excellent,Online
+1388,CUS-001388,Austria,Upper Austria,Fair,Installer Referral
+1389,CUS-001389,Germany,Hesse,Poor,Installer Referral
+1390,CUS-001390,Germany,North Rhine-Westphalia,Fair,Direct Sales
+1391,CUS-001391,Austria,Upper Austria,Fair,Installer Referral
+1392,CUS-001392,Germany,Berlin,Excellent,Online
+1393,CUS-001393,Austria,Vienna,Fair,Partner Bank
+1394,CUS-001394,Germany,North Rhine-Westphalia,Good,Online
+1395,CUS-001395,Germany,Hesse,Good,Partner Bank
+1396,CUS-001396,Germany,Baden-Württemberg,Excellent,Direct Sales
+1397,CUS-001397,Germany,Lower Saxony,Good,Installer Referral
+1398,CUS-001398,Germany,Bavaria,Excellent,Online
+1399,CUS-001399,Germany,Lower Saxony,Fair,Partner Bank
+1400,CUS-001400,Germany,Baden-Württemberg,Good,Installer Referral
+1401,CUS-001401,Germany,Lower Saxony,Good,Partner Bank
+1402,CUS-001402,Germany,Berlin,Fair,Installer Referral
+1403,CUS-001403,Germany,Berlin,Poor,Installer Referral
+1404,CUS-001404,Germany,Bavaria,Fair,Installer Referral
+1405,CUS-001405,Germany,Bavaria,Fair,Installer Referral
+1406,CUS-001406,Austria,Upper Austria,Excellent,Installer Referral
+1407,CUS-001407,Germany,Hesse,Fair,Direct Sales
+1408,CUS-001408,Netherlands,North Brabant,Excellent,Marketplace
+1409,CUS-001409,Germany,Hesse,Excellent,Partner Bank
+1410,CUS-001410,Austria,Styria,Fair,Installer Referral
+1411,CUS-001411,Germany,North Rhine-Westphalia,Good,Online
+1412,CUS-001412,Netherlands,North Brabant,Good,Marketplace
+1413,CUS-001413,Austria,Styria,Poor,Partner Bank
+1414,CUS-001414,Germany,North Rhine-Westphalia,Fair,Installer Referral
+1415,CUS-001415,Germany,Lower Saxony,Good,Installer Referral
+1416,CUS-001416,Netherlands,South Holland,Excellent,Installer Referral
+1417,CUS-001417,Netherlands,North Holland,Fair,Installer Referral
+1418,CUS-001418,Germany,North Rhine-Westphalia,Good,Online
+1419,CUS-001419,Germany,Bavaria,Poor,Partner Bank
+1420,CUS-001420,Germany,Bavaria,Excellent,Partner Bank
+1421,CUS-001421,Austria,Vienna,Poor,Installer Referral
+1422,CUS-001422,Germany,Bavaria,Fair,Installer Referral
+1423,CUS-001423,Austria,Upper Austria,Fair,Online
+1424,CUS-001424,Netherlands,South Holland,Good,Online
+1425,CUS-001425,Austria,Vienna,Good,Installer Referral
+1426,CUS-001426,Netherlands,South Holland,Excellent,Online
+1427,CUS-001427,Netherlands,South Holland,Fair,Online
+1428,CUS-001428,Germany,Berlin,Excellent,Online
+1429,CUS-001429,Netherlands,North Holland,Fair,Partner Bank
+1430,CUS-001430,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+1431,CUS-001431,Germany,North Rhine-Westphalia,Good,Installer Referral
+1432,CUS-001432,Germany,Berlin,Good,Installer Referral
+1433,CUS-001433,Germany,Berlin,Excellent,Installer Referral
+1434,CUS-001434,Germany,Hesse,Good,Installer Referral
+1435,CUS-001435,Austria,Styria,Good,Online
+1436,CUS-001436,Austria,Upper Austria,Poor,Installer Referral
+1437,CUS-001437,Germany,Baden-Württemberg,Fair,Installer Referral
+1438,CUS-001438,Germany,Berlin,Fair,Online
+1439,CUS-001439,Germany,Hesse,Excellent,Online
+1440,CUS-001440,Netherlands,North Holland,Fair,Online
+1441,CUS-001441,Germany,Hesse,Excellent,Partner Bank
+1442,CUS-001442,Germany,North Rhine-Westphalia,Fair,Direct Sales
+1443,CUS-001443,Austria,Vienna,Good,Installer Referral
+1444,CUS-001444,Germany,Bavaria,Excellent,Online
+1445,CUS-001445,Germany,Bavaria,Fair,Online
+1446,CUS-001446,Austria,Styria,Fair,Installer Referral
+1447,CUS-001447,Netherlands,North Brabant,Good,Installer Referral
+1448,CUS-001448,Netherlands,North Holland,Fair,Online
+1449,CUS-001449,Germany,Bavaria,Good,Partner Bank
+1450,CUS-001450,Germany,Baden-Württemberg,Fair,Online
+1451,CUS-001451,Netherlands,North Holland,Excellent,Partner Bank
+1452,CUS-001452,Germany,Lower Saxony,Fair,Installer Referral
+1453,CUS-001453,Germany,Bavaria,Excellent,Marketplace
+1454,CUS-001454,Austria,Styria,Poor,Online
+1455,CUS-001455,Austria,Upper Austria,Fair,Installer Referral
+1456,CUS-001456,Germany,Hesse,Good,Installer Referral
+1457,CUS-001457,Germany,Berlin,Excellent,Installer Referral
+1458,CUS-001458,Germany,Bavaria,Fair,Partner Bank
+1459,CUS-001459,Germany,Bavaria,Fair,Installer Referral
+1460,CUS-001460,Netherlands,North Holland,Fair,Direct Sales
+1461,CUS-001461,Netherlands,North Brabant,Good,Partner Bank
+1462,CUS-001462,Germany,Baden-Württemberg,Excellent,Installer Referral
+1463,CUS-001463,Germany,Lower Saxony,Good,Installer Referral
+1464,CUS-001464,Netherlands,North Holland,Fair,Installer Referral
+1465,CUS-001465,Germany,Baden-Württemberg,Fair,Direct Sales
+1466,CUS-001466,Germany,Bavaria,Fair,Marketplace
+1467,CUS-001467,Germany,Bavaria,Good,Installer Referral
+1468,CUS-001468,Austria,Styria,Good,Online
+1469,CUS-001469,Germany,Berlin,Fair,Installer Referral
+1470,CUS-001470,Austria,Upper Austria,Good,Installer Referral
+1471,CUS-001471,Germany,North Rhine-Westphalia,Good,Installer Referral
+1472,CUS-001472,Germany,Lower Saxony,Excellent,Online
+1473,CUS-001473,Germany,Hesse,Good,Installer Referral
+1474,CUS-001474,Germany,Berlin,Excellent,Installer Referral
+1475,CUS-001475,Germany,Baden-Württemberg,Excellent,Partner Bank
+1476,CUS-001476,Germany,North Rhine-Westphalia,Excellent,Online
+1477,CUS-001477,Germany,Baden-Württemberg,Good,Installer Referral
+1478,CUS-001478,Germany,Berlin,Poor,Direct Sales
+1479,CUS-001479,Germany,Hesse,Poor,Installer Referral
+1480,CUS-001480,Austria,Upper Austria,Poor,Installer Referral
+1481,CUS-001481,Germany,Lower Saxony,Good,Partner Bank
+1482,CUS-001482,Austria,Vienna,Good,Online
+1483,CUS-001483,Germany,Hesse,Poor,Direct Sales
+1484,CUS-001484,Austria,Upper Austria,Poor,Installer Referral
+1485,CUS-001485,Germany,Hesse,Excellent,Online
+1486,CUS-001486,Germany,Berlin,Fair,Online
+1487,CUS-001487,Germany,Hesse,Fair,Partner Bank
+1488,CUS-001488,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+1489,CUS-001489,Germany,Bavaria,Excellent,Partner Bank
+1490,CUS-001490,Germany,Lower Saxony,Poor,Partner Bank
+1491,CUS-001491,Germany,Lower Saxony,Good,Installer Referral
+1492,CUS-001492,Austria,Vienna,Fair,Installer Referral
+1493,CUS-001493,Germany,Berlin,Excellent,Online
+1494,CUS-001494,Germany,Berlin,Good,Installer Referral
+1495,CUS-001495,Germany,Baden-Württemberg,Fair,Online
+1496,CUS-001496,Germany,North Rhine-Westphalia,Fair,Installer Referral
+1497,CUS-001497,Austria,Styria,Poor,Online
+1498,CUS-001498,Netherlands,South Holland,Poor,Installer Referral
+1499,CUS-001499,Germany,Hesse,Excellent,Installer Referral
+1500,CUS-001500,Germany,Berlin,Excellent,Partner Bank
+1501,CUS-001501,Germany,Baden-Württemberg,Good,Installer Referral
+1502,CUS-001502,Germany,Hesse,Poor,Partner Bank
+1503,CUS-001503,Austria,Vienna,Good,Direct Sales
+1504,CUS-001504,Germany,Lower Saxony,Good,Installer Referral
+1505,CUS-001505,Germany,Lower Saxony,Good,Direct Sales
+1506,CUS-001506,Germany,Hesse,Fair,Online
+1507,CUS-001507,Germany,Hesse,Good,Partner Bank
+1508,CUS-001508,Germany,Bavaria,Excellent,Direct Sales
+1509,CUS-001509,Germany,Lower Saxony,Poor,Installer Referral
+1510,CUS-001510,Netherlands,North Holland,Excellent,Installer Referral
+1511,CUS-001511,Germany,North Rhine-Westphalia,Poor,Online
+1512,CUS-001512,Germany,Baden-Württemberg,Good,Partner Bank
+1513,CUS-001513,Netherlands,South Holland,Good,Online
+1514,CUS-001514,Germany,Baden-Württemberg,Excellent,Installer Referral
+1515,CUS-001515,Austria,Styria,Fair,Online
+1516,CUS-001516,Germany,Berlin,Fair,Online
+1517,CUS-001517,Germany,Hesse,Fair,Online
+1518,CUS-001518,Germany,North Rhine-Westphalia,Poor,Installer Referral
+1519,CUS-001519,Austria,Vienna,Good,Marketplace
+1520,CUS-001520,Austria,Vienna,Excellent,Installer Referral
+1521,CUS-001521,Netherlands,North Brabant,Poor,Partner Bank
+1522,CUS-001522,Germany,North Rhine-Westphalia,Fair,Partner Bank
+1523,CUS-001523,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+1524,CUS-001524,Netherlands,North Brabant,Excellent,Installer Referral
+1525,CUS-001525,Germany,Hesse,Fair,Partner Bank
+1526,CUS-001526,Netherlands,North Holland,Good,Online
+1527,CUS-001527,Germany,Baden-Württemberg,Excellent,Installer Referral
+1528,CUS-001528,Netherlands,North Holland,Poor,Marketplace
+1529,CUS-001529,Germany,Berlin,Good,Online
+1530,CUS-001530,Germany,Baden-Württemberg,Good,Installer Referral
+1531,CUS-001531,Netherlands,North Brabant,Fair,Partner Bank
+1532,CUS-001532,Austria,Upper Austria,Good,Installer Referral
+1533,CUS-001533,Germany,Bavaria,Excellent,Online
+1534,CUS-001534,Germany,Lower Saxony,Fair,Installer Referral
+1535,CUS-001535,Germany,Baden-Württemberg,Excellent,Online
+1536,CUS-001536,Germany,North Rhine-Westphalia,Fair,Partner Bank
+1537,CUS-001537,Germany,Bavaria,Good,Online
+1538,CUS-001538,Germany,Bavaria,Poor,Installer Referral
+1539,CUS-001539,Germany,Hesse,Fair,Marketplace
+1540,CUS-001540,Netherlands,South Holland,Good,Partner Bank
+1541,CUS-001541,Germany,Lower Saxony,Good,Installer Referral
+1542,CUS-001542,Germany,Lower Saxony,Poor,Installer Referral
+1543,CUS-001543,Austria,Upper Austria,Fair,Online
+1544,CUS-001544,Germany,North Rhine-Westphalia,Fair,Marketplace
+1545,CUS-001545,Germany,Lower Saxony,Excellent,Online
+1546,CUS-001546,Germany,North Rhine-Westphalia,Good,Marketplace
+1547,CUS-001547,Germany,Baden-Württemberg,Excellent,Marketplace
+1548,CUS-001548,Austria,Vienna,Excellent,Online
+1549,CUS-001549,Germany,North Rhine-Westphalia,Fair,Partner Bank
+1550,CUS-001550,Austria,Vienna,Excellent,Direct Sales
+1551,CUS-001551,Germany,Lower Saxony,Excellent,Direct Sales
+1552,CUS-001552,Austria,Upper Austria,Good,Partner Bank
+1553,CUS-001553,Germany,Bavaria,Excellent,Installer Referral
+1554,CUS-001554,Germany,Berlin,Good,Partner Bank
+1555,CUS-001555,Austria,Upper Austria,Excellent,Direct Sales
+1556,CUS-001556,Germany,Bavaria,Excellent,Installer Referral
+1557,CUS-001557,Netherlands,North Holland,Fair,Installer Referral
+1558,CUS-001558,Germany,Lower Saxony,Poor,Online
+1559,CUS-001559,Germany,Berlin,Fair,Installer Referral
+1560,CUS-001560,Austria,Vienna,Fair,Installer Referral
+1561,CUS-001561,Germany,Baden-Württemberg,Good,Partner Bank
+1562,CUS-001562,Germany,Bavaria,Good,Online
+1563,CUS-001563,Netherlands,South Holland,Excellent,Installer Referral
+1564,CUS-001564,Germany,Bavaria,Good,Partner Bank
+1565,CUS-001565,Germany,Bavaria,Fair,Installer Referral
+1566,CUS-001566,Germany,Baden-Württemberg,Fair,Partner Bank
+1567,CUS-001567,Germany,Berlin,Fair,Installer Referral
+1568,CUS-001568,Germany,Baden-Württemberg,Fair,Installer Referral
+1569,CUS-001569,Germany,Baden-Württemberg,Fair,Online
+1570,CUS-001570,Netherlands,North Holland,Excellent,Installer Referral
+1571,CUS-001571,Germany,North Rhine-Westphalia,Fair,Online
+1572,CUS-001572,Germany,Hesse,Fair,Partner Bank
+1573,CUS-001573,Austria,Vienna,Good,Direct Sales
+1574,CUS-001574,Germany,North Rhine-Westphalia,Poor,Online
+1575,CUS-001575,Germany,Baden-Württemberg,Excellent,Online
+1576,CUS-001576,Netherlands,North Brabant,Fair,Installer Referral
+1577,CUS-001577,Austria,Vienna,Fair,Installer Referral
+1578,CUS-001578,Germany,Berlin,Excellent,Installer Referral
+1579,CUS-001579,Germany,North Rhine-Westphalia,Poor,Online
+1580,CUS-001580,Austria,Vienna,Excellent,Partner Bank
+1581,CUS-001581,Austria,Vienna,Excellent,Installer Referral
+1582,CUS-001582,Germany,Hesse,Excellent,Installer Referral
+1583,CUS-001583,Germany,Bavaria,Good,Installer Referral
+1584,CUS-001584,Germany,Bavaria,Poor,Installer Referral
+1585,CUS-001585,Netherlands,North Holland,Fair,Installer Referral
+1586,CUS-001586,Germany,Berlin,Poor,Marketplace
+1587,CUS-001587,Germany,North Rhine-Westphalia,Poor,Partner Bank
+1588,CUS-001588,Germany,Hesse,Fair,Installer Referral
+1589,CUS-001589,Germany,Bavaria,Good,Partner Bank
+1590,CUS-001590,Netherlands,North Holland,Poor,Online
+1591,CUS-001591,Netherlands,North Holland,Poor,Marketplace
+1592,CUS-001592,Austria,Upper Austria,Good,Online
+1593,CUS-001593,Germany,Bavaria,Excellent,Installer Referral
+1594,CUS-001594,Germany,North Rhine-Westphalia,Good,Online
+1595,CUS-001595,Austria,Upper Austria,Excellent,Installer Referral
+1596,CUS-001596,Germany,Baden-Württemberg,Fair,Online
+1597,CUS-001597,Germany,Baden-Württemberg,Good,Installer Referral
+1598,CUS-001598,Germany,Berlin,Good,Marketplace
+1599,CUS-001599,Germany,Hesse,Good,Marketplace
+1600,CUS-001600,Germany,Bavaria,Poor,Direct Sales
+1601,CUS-001601,Netherlands,South Holland,Excellent,Marketplace
+1602,CUS-001602,Germany,Bavaria,Good,Online
+1603,CUS-001603,Germany,Bavaria,Excellent,Online
+1604,CUS-001604,Germany,Bavaria,Fair,Direct Sales
+1605,CUS-001605,Germany,Baden-Württemberg,Poor,Installer Referral
+1606,CUS-001606,Germany,Lower Saxony,Excellent,Direct Sales
+1607,CUS-001607,Austria,Upper Austria,Fair,Partner Bank
+1608,CUS-001608,Germany,Berlin,Poor,Installer Referral
+1609,CUS-001609,Germany,Lower Saxony,Poor,Online
+1610,CUS-001610,Germany,Lower Saxony,Excellent,Installer Referral
+1611,CUS-001611,Germany,Berlin,Poor,Installer Referral
+1612,CUS-001612,Austria,Vienna,Good,Installer Referral
+1613,CUS-001613,Germany,Hesse,Fair,Installer Referral
+1614,CUS-001614,Germany,Bavaria,Fair,Partner Bank
+1615,CUS-001615,Germany,Lower Saxony,Fair,Installer Referral
+1616,CUS-001616,Germany,Lower Saxony,Good,Online
+1617,CUS-001617,Austria,Styria,Good,Marketplace
+1618,CUS-001618,Germany,Lower Saxony,Poor,Installer Referral
+1619,CUS-001619,Germany,Lower Saxony,Good,Installer Referral
+1620,CUS-001620,Germany,Berlin,Poor,Installer Referral
+1621,CUS-001621,Austria,Upper Austria,Good,Installer Referral
+1622,CUS-001622,Germany,Bavaria,Fair,Online
+1623,CUS-001623,Germany,Hesse,Fair,Online
+1624,CUS-001624,Austria,Styria,Excellent,Installer Referral
+1625,CUS-001625,Germany,Lower Saxony,Fair,Installer Referral
+1626,CUS-001626,Netherlands,South Holland,Excellent,Online
+1627,CUS-001627,Germany,Baden-Württemberg,Good,Partner Bank
+1628,CUS-001628,Germany,Berlin,Good,Installer Referral
+1629,CUS-001629,Germany,Baden-Württemberg,Good,Installer Referral
+1630,CUS-001630,Germany,North Rhine-Westphalia,Fair,Online
+1631,CUS-001631,Netherlands,North Holland,Poor,Installer Referral
+1632,CUS-001632,Germany,Hesse,Good,Online
+1633,CUS-001633,Austria,Styria,Good,Online
+1634,CUS-001634,Germany,Lower Saxony,Fair,Marketplace
+1635,CUS-001635,Germany,Lower Saxony,Good,Installer Referral
+1636,CUS-001636,Germany,Berlin,Fair,Installer Referral
+1637,CUS-001637,Germany,Berlin,Good,Online
+1638,CUS-001638,Germany,Lower Saxony,Good,Online
+1639,CUS-001639,Netherlands,North Holland,Fair,Online
+1640,CUS-001640,Germany,Bavaria,Good,Online
+1641,CUS-001641,Austria,Styria,Fair,Installer Referral
+1642,CUS-001642,Austria,Vienna,Fair,Installer Referral
+1643,CUS-001643,Germany,Hesse,Good,Installer Referral
+1644,CUS-001644,Austria,Styria,Fair,Online
+1645,CUS-001645,Germany,Berlin,Good,Installer Referral
+1646,CUS-001646,Germany,Hesse,Good,Partner Bank
+1647,CUS-001647,Germany,Bavaria,Fair,Online
+1648,CUS-001648,Germany,Lower Saxony,Good,Marketplace
+1649,CUS-001649,Austria,Upper Austria,Good,Online
+1650,CUS-001650,Austria,Upper Austria,Poor,Partner Bank
+1651,CUS-001651,Germany,North Rhine-Westphalia,Good,Installer Referral
+1652,CUS-001652,Germany,Berlin,Fair,Direct Sales
+1653,CUS-001653,Germany,Bavaria,Fair,Direct Sales
+1654,CUS-001654,Germany,Baden-Württemberg,Fair,Installer Referral
+1655,CUS-001655,Germany,Lower Saxony,Good,Installer Referral
+1656,CUS-001656,Germany,Baden-Württemberg,Good,Online
+1657,CUS-001657,Germany,Berlin,Poor,Installer Referral
+1658,CUS-001658,Germany,Bavaria,Good,Direct Sales
+1659,CUS-001659,Germany,North Rhine-Westphalia,Fair,Installer Referral
+1660,CUS-001660,Austria,Vienna,Excellent,Direct Sales
+1661,CUS-001661,Germany,Baden-Württemberg,Poor,Direct Sales
+1662,CUS-001662,Germany,Baden-Württemberg,Fair,Direct Sales
+1663,CUS-001663,Germany,Berlin,Fair,Installer Referral
+1664,CUS-001664,Germany,Hesse,Poor,Online
+1665,CUS-001665,Austria,Styria,Good,Direct Sales
+1666,CUS-001666,Germany,Bavaria,Fair,Installer Referral
+1667,CUS-001667,Austria,Styria,Good,Partner Bank
+1668,CUS-001668,Germany,Lower Saxony,Good,Installer Referral
+1669,CUS-001669,Germany,Baden-Württemberg,Good,Installer Referral
+1670,CUS-001670,Germany,Lower Saxony,Good,Partner Bank
+1671,CUS-001671,Germany,Hesse,Good,Partner Bank
+1672,CUS-001672,Netherlands,North Holland,Good,Partner Bank
+1673,CUS-001673,Austria,Vienna,Fair,Direct Sales
+1674,CUS-001674,Germany,Berlin,Fair,Marketplace
+1675,CUS-001675,Germany,Berlin,Good,Online
+1676,CUS-001676,Germany,Berlin,Good,Direct Sales
+1677,CUS-001677,Germany,North Rhine-Westphalia,Poor,Installer Referral
+1678,CUS-001678,Netherlands,South Holland,Poor,Direct Sales
+1679,CUS-001679,Germany,North Rhine-Westphalia,Good,Direct Sales
+1680,CUS-001680,Germany,Lower Saxony,Fair,Direct Sales
+1681,CUS-001681,Austria,Upper Austria,Fair,Installer Referral
+1682,CUS-001682,Germany,Lower Saxony,Good,Online
+1683,CUS-001683,Austria,Styria,Good,Direct Sales
+1684,CUS-001684,Germany,North Rhine-Westphalia,Fair,Online
+1685,CUS-001685,Germany,Hesse,Fair,Online
+1686,CUS-001686,Germany,Berlin,Excellent,Installer Referral
+1687,CUS-001687,Germany,Berlin,Good,Online
+1688,CUS-001688,Germany,North Rhine-Westphalia,Fair,Installer Referral
+1689,CUS-001689,Germany,North Rhine-Westphalia,Good,Partner Bank
+1690,CUS-001690,Austria,Styria,Fair,Direct Sales
+1691,CUS-001691,Germany,Baden-Württemberg,Good,Direct Sales
+1692,CUS-001692,Germany,North Rhine-Westphalia,Fair,Direct Sales
+1693,CUS-001693,Austria,Vienna,Excellent,Installer Referral
+1694,CUS-001694,Germany,Lower Saxony,Poor,Direct Sales
+1695,CUS-001695,Germany,Bavaria,Poor,Online
+1696,CUS-001696,Germany,Bavaria,Poor,Installer Referral
+1697,CUS-001697,Austria,Vienna,Excellent,Online
+1698,CUS-001698,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+1699,CUS-001699,Netherlands,North Holland,Excellent,Online
+1700,CUS-001700,Austria,Upper Austria,Fair,Online
+1701,CUS-001701,Germany,North Rhine-Westphalia,Excellent,Direct Sales
+1702,CUS-001702,Austria,Upper Austria,Fair,Installer Referral
+1703,CUS-001703,Germany,North Rhine-Westphalia,Fair,Marketplace
+1704,CUS-001704,Germany,Berlin,Excellent,Installer Referral
+1705,CUS-001705,Austria,Vienna,Good,Installer Referral
+1706,CUS-001706,Germany,North Rhine-Westphalia,Good,Partner Bank
+1707,CUS-001707,Germany,Bavaria,Good,Direct Sales
+1708,CUS-001708,Netherlands,South Holland,Fair,Partner Bank
+1709,CUS-001709,Austria,Styria,Fair,Installer Referral
+1710,CUS-001710,Germany,Bavaria,Good,Installer Referral
+1711,CUS-001711,Netherlands,North Brabant,Poor,Marketplace
+1712,CUS-001712,Germany,Berlin,Fair,Installer Referral
+1713,CUS-001713,Germany,Lower Saxony,Good,Installer Referral
+1714,CUS-001714,Germany,Hesse,Excellent,Installer Referral
+1715,CUS-001715,Germany,Lower Saxony,Poor,Direct Sales
+1716,CUS-001716,Germany,Baden-Württemberg,Fair,Online
+1717,CUS-001717,Germany,Baden-Württemberg,Excellent,Installer Referral
+1718,CUS-001718,Austria,Upper Austria,Fair,Marketplace
+1719,CUS-001719,Germany,Baden-Württemberg,Fair,Partner Bank
+1720,CUS-001720,Germany,Baden-Württemberg,Good,Installer Referral
+1721,CUS-001721,Austria,Upper Austria,Fair,Installer Referral
+1722,CUS-001722,Austria,Styria,Fair,Online
+1723,CUS-001723,Germany,Bavaria,Good,Installer Referral
+1724,CUS-001724,Germany,Berlin,Good,Installer Referral
+1725,CUS-001725,Austria,Upper Austria,Excellent,Installer Referral
+1726,CUS-001726,Austria,Upper Austria,Good,Installer Referral
+1727,CUS-001727,Austria,Vienna,Excellent,Installer Referral
+1728,CUS-001728,Austria,Vienna,Fair,Partner Bank
+1729,CUS-001729,Austria,Styria,Poor,Online
+1730,CUS-001730,Germany,Bavaria,Good,Online
+1731,CUS-001731,Germany,Bavaria,Good,Online
+1732,CUS-001732,Germany,Baden-Württemberg,Excellent,Partner Bank
+1733,CUS-001733,Germany,Lower Saxony,Good,Marketplace
+1734,CUS-001734,Germany,Baden-Württemberg,Excellent,Installer Referral
+1735,CUS-001735,Austria,Styria,Good,Online
+1736,CUS-001736,Germany,Berlin,Excellent,Marketplace
+1737,CUS-001737,Germany,Lower Saxony,Good,Partner Bank
+1738,CUS-001738,Austria,Styria,Excellent,Direct Sales
+1739,CUS-001739,Austria,Upper Austria,Good,Installer Referral
+1740,CUS-001740,Germany,Hesse,Good,Installer Referral
+1741,CUS-001741,Germany,Lower Saxony,Excellent,Direct Sales
+1742,CUS-001742,Germany,Lower Saxony,Good,Partner Bank
+1743,CUS-001743,Germany,Bavaria,Good,Direct Sales
+1744,CUS-001744,Austria,Upper Austria,Poor,Online
+1745,CUS-001745,Germany,Bavaria,Fair,Online
+1746,CUS-001746,Germany,Lower Saxony,Good,Online
+1747,CUS-001747,Germany,Lower Saxony,Fair,Online
+1748,CUS-001748,Germany,Lower Saxony,Excellent,Online
+1749,CUS-001749,Netherlands,North Brabant,Good,Partner Bank
+1750,CUS-001750,Germany,Lower Saxony,Good,Online
+1751,CUS-001751,Germany,Lower Saxony,Good,Direct Sales
+1752,CUS-001752,Germany,North Rhine-Westphalia,Poor,Partner Bank
+1753,CUS-001753,Germany,North Rhine-Westphalia,Good,Installer Referral
+1754,CUS-001754,Germany,Bavaria,Poor,Online
+1755,CUS-001755,Germany,Lower Saxony,Excellent,Partner Bank
+1756,CUS-001756,Germany,Baden-Württemberg,Good,Online
+1757,CUS-001757,Austria,Vienna,Excellent,Partner Bank
+1758,CUS-001758,Germany,North Rhine-Westphalia,Fair,Installer Referral
+1759,CUS-001759,Germany,Berlin,Good,Online
+1760,CUS-001760,Germany,Berlin,Good,Direct Sales
+1761,CUS-001761,Germany,North Rhine-Westphalia,Good,Installer Referral
+1762,CUS-001762,Netherlands,South Holland,Poor,Installer Referral
+1763,CUS-001763,Germany,Bavaria,Good,Installer Referral
+1764,CUS-001764,Germany,Lower Saxony,Fair,Direct Sales
+1765,CUS-001765,Netherlands,North Brabant,Fair,Installer Referral
+1766,CUS-001766,Austria,Styria,Good,Partner Bank
+1767,CUS-001767,Germany,Lower Saxony,Fair,Installer Referral
+1768,CUS-001768,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+1769,CUS-001769,Netherlands,North Holland,Good,Online
+1770,CUS-001770,Germany,Lower Saxony,Fair,Direct Sales
+1771,CUS-001771,Germany,Bavaria,Good,Online
+1772,CUS-001772,Germany,Bavaria,Excellent,Direct Sales
+1773,CUS-001773,Austria,Upper Austria,Poor,Online
+1774,CUS-001774,Austria,Styria,Good,Installer Referral
+1775,CUS-001775,Austria,Upper Austria,Excellent,Installer Referral
+1776,CUS-001776,Germany,Berlin,Good,Online
+1777,CUS-001777,Germany,Hesse,Fair,Online
+1778,CUS-001778,Germany,Lower Saxony,Good,Online
+1779,CUS-001779,Austria,Styria,Poor,Direct Sales
+1780,CUS-001780,Germany,Bavaria,Good,Online
+1781,CUS-001781,Germany,Bavaria,Good,Online
+1782,CUS-001782,Austria,Vienna,Good,Marketplace
+1783,CUS-001783,Germany,Berlin,Good,Installer Referral
+1784,CUS-001784,Austria,Upper Austria,Good,Installer Referral
+1785,CUS-001785,Germany,Berlin,Good,Online
+1786,CUS-001786,Austria,Styria,Good,Direct Sales
+1787,CUS-001787,Austria,Upper Austria,Poor,Direct Sales
+1788,CUS-001788,Germany,Berlin,Good,Online
+1789,CUS-001789,Netherlands,North Holland,Fair,Installer Referral
+1790,CUS-001790,Austria,Styria,Good,Installer Referral
+1791,CUS-001791,Germany,Lower Saxony,Excellent,Online
+1792,CUS-001792,Netherlands,South Holland,Good,Online
+1793,CUS-001793,Netherlands,South Holland,Poor,Installer Referral
+1794,CUS-001794,Germany,Hesse,Excellent,Installer Referral
+1795,CUS-001795,Germany,Hesse,Good,Online
+1796,CUS-001796,Germany,Baden-Württemberg,Fair,Partner Bank
+1797,CUS-001797,Austria,Styria,Good,Installer Referral
+1798,CUS-001798,Germany,Hesse,Fair,Installer Referral
+1799,CUS-001799,Germany,Lower Saxony,Fair,Marketplace
+1800,CUS-001800,Austria,Vienna,Fair,Online
+1801,CUS-001801,Austria,Vienna,Fair,Installer Referral
+1802,CUS-001802,Germany,Berlin,Excellent,Installer Referral
+1803,CUS-001803,Germany,Berlin,Good,Online
+1804,CUS-001804,Germany,Berlin,Poor,Installer Referral
+1805,CUS-001805,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+1806,CUS-001806,Netherlands,North Holland,Good,Direct Sales
+1807,CUS-001807,Germany,Hesse,Excellent,Installer Referral
+1808,CUS-001808,Austria,Upper Austria,Good,Partner Bank
+1809,CUS-001809,Germany,Hesse,Good,Installer Referral
+1810,CUS-001810,Austria,Upper Austria,Poor,Direct Sales
+1811,CUS-001811,Netherlands,North Brabant,Fair,Installer Referral
+1812,CUS-001812,Germany,North Rhine-Westphalia,Fair,Partner Bank
+1813,CUS-001813,Germany,Bavaria,Excellent,Installer Referral
+1814,CUS-001814,Netherlands,North Holland,Good,Installer Referral
+1815,CUS-001815,Germany,Berlin,Excellent,Online
+1816,CUS-001816,Netherlands,North Brabant,Fair,Direct Sales
+1817,CUS-001817,Netherlands,South Holland,Good,Partner Bank
+1818,CUS-001818,Germany,Baden-Württemberg,Fair,Installer Referral
+1819,CUS-001819,Germany,Baden-Württemberg,Poor,Online
+1820,CUS-001820,Germany,Lower Saxony,Good,Installer Referral
+1821,CUS-001821,Germany,Hesse,Fair,Partner Bank
+1822,CUS-001822,Austria,Styria,Good,Installer Referral
+1823,CUS-001823,Germany,Bavaria,Good,Installer Referral
+1824,CUS-001824,Austria,Vienna,Good,Online
+1825,CUS-001825,Germany,Hesse,Fair,Online
+1826,CUS-001826,Austria,Vienna,Excellent,Direct Sales
+1827,CUS-001827,Germany,Baden-Württemberg,Good,Partner Bank
+1828,CUS-001828,Austria,Styria,Excellent,Installer Referral
+1829,CUS-001829,Germany,Berlin,Good,Installer Referral
+1830,CUS-001830,Austria,Vienna,Good,Online
+1831,CUS-001831,Germany,Baden-Württemberg,Poor,Direct Sales
+1832,CUS-001832,Netherlands,North Brabant,Fair,Marketplace
+1833,CUS-001833,Germany,Hesse,Good,Installer Referral
+1834,CUS-001834,Germany,Berlin,Fair,Installer Referral
+1835,CUS-001835,Germany,Berlin,Good,Installer Referral
+1836,CUS-001836,Germany,Baden-Württemberg,Good,Installer Referral
+1837,CUS-001837,Germany,Lower Saxony,Excellent,Installer Referral
+1838,CUS-001838,Austria,Upper Austria,Good,Installer Referral
+1839,CUS-001839,Germany,Lower Saxony,Fair,Online
+1840,CUS-001840,Germany,Baden-Württemberg,Fair,Online
+1841,CUS-001841,Netherlands,North Brabant,Poor,Online
+1842,CUS-001842,Netherlands,North Holland,Excellent,Installer Referral
+1843,CUS-001843,Austria,Vienna,Poor,Online
+1844,CUS-001844,Germany,Berlin,Good,Online
+1845,CUS-001845,Austria,Styria,Good,Marketplace
+1846,CUS-001846,Germany,Lower Saxony,Excellent,Installer Referral
+1847,CUS-001847,Germany,Hesse,Excellent,Installer Referral
+1848,CUS-001848,Netherlands,South Holland,Good,Installer Referral
+1849,CUS-001849,Germany,Hesse,Good,Marketplace
+1850,CUS-001850,Germany,Baden-Württemberg,Good,Direct Sales
+1851,CUS-001851,Germany,Bavaria,Good,Installer Referral
+1852,CUS-001852,Germany,Lower Saxony,Fair,Online
+1853,CUS-001853,Netherlands,South Holland,Good,Partner Bank
+1854,CUS-001854,Germany,North Rhine-Westphalia,Good,Online
+1855,CUS-001855,Germany,Lower Saxony,Excellent,Partner Bank
+1856,CUS-001856,Germany,Hesse,Fair,Online
+1857,CUS-001857,Germany,Lower Saxony,Good,Installer Referral
+1858,CUS-001858,Germany,Lower Saxony,Fair,Online
+1859,CUS-001859,Austria,Styria,Excellent,Online
+1860,CUS-001860,Austria,Upper Austria,Fair,Installer Referral
+1861,CUS-001861,Germany,North Rhine-Westphalia,Poor,Online
+1862,CUS-001862,Austria,Styria,Good,Partner Bank
+1863,CUS-001863,Germany,Bavaria,Excellent,Marketplace
+1864,CUS-001864,Germany,Bavaria,Good,Installer Referral
+1865,CUS-001865,Austria,Styria,Good,Direct Sales
+1866,CUS-001866,Germany,Lower Saxony,Fair,Online
+1867,CUS-001867,Netherlands,South Holland,Good,Online
+1868,CUS-001868,Austria,Upper Austria,Good,Installer Referral
+1869,CUS-001869,Netherlands,North Brabant,Excellent,Installer Referral
+1870,CUS-001870,Germany,Bavaria,Excellent,Marketplace
+1871,CUS-001871,Germany,Bavaria,Fair,Installer Referral
+1872,CUS-001872,Germany,Bavaria,Good,Installer Referral
+1873,CUS-001873,Germany,Baden-Württemberg,Good,Marketplace
+1874,CUS-001874,Austria,Vienna,Good,Partner Bank
+1875,CUS-001875,Germany,Lower Saxony,Good,Online
+1876,CUS-001876,Netherlands,South Holland,Excellent,Online
+1877,CUS-001877,Germany,Lower Saxony,Excellent,Online
+1878,CUS-001878,Netherlands,North Holland,Good,Marketplace
+1879,CUS-001879,Germany,North Rhine-Westphalia,Fair,Partner Bank
+1880,CUS-001880,Germany,Hesse,Good,Installer Referral
+1881,CUS-001881,Germany,North Rhine-Westphalia,Fair,Installer Referral
+1882,CUS-001882,Germany,North Rhine-Westphalia,Fair,Online
+1883,CUS-001883,Germany,Hesse,Good,Installer Referral
+1884,CUS-001884,Germany,Hesse,Good,Marketplace
+1885,CUS-001885,Germany,Lower Saxony,Good,Installer Referral
+1886,CUS-001886,Germany,Baden-Württemberg,Fair,Installer Referral
+1887,CUS-001887,Austria,Upper Austria,Excellent,Partner Bank
+1888,CUS-001888,Germany,Baden-Württemberg,Excellent,Partner Bank
+1889,CUS-001889,Austria,Styria,Fair,Installer Referral
+1890,CUS-001890,Germany,Hesse,Good,Direct Sales
+1891,CUS-001891,Austria,Upper Austria,Fair,Marketplace
+1892,CUS-001892,Austria,Upper Austria,Good,Marketplace
+1893,CUS-001893,Germany,Lower Saxony,Poor,Installer Referral
+1894,CUS-001894,Netherlands,North Holland,Fair,Installer Referral
+1895,CUS-001895,Germany,Bavaria,Fair,Online
+1896,CUS-001896,Austria,Styria,Good,Installer Referral
+1897,CUS-001897,Germany,Berlin,Fair,Online
+1898,CUS-001898,Austria,Styria,Good,Installer Referral
+1899,CUS-001899,Netherlands,South Holland,Fair,Installer Referral
+1900,CUS-001900,Germany,Berlin,Poor,Installer Referral
+1901,CUS-001901,Germany,North Rhine-Westphalia,Good,Installer Referral
+1902,CUS-001902,Germany,Baden-Württemberg,Fair,Partner Bank
+1903,CUS-001903,Germany,Hesse,Fair,Direct Sales
+1904,CUS-001904,Germany,Lower Saxony,Poor,Installer Referral
+1905,CUS-001905,Germany,Berlin,Fair,Installer Referral
+1906,CUS-001906,Germany,Berlin,Good,Direct Sales
+1907,CUS-001907,Germany,Lower Saxony,Excellent,Installer Referral
+1908,CUS-001908,Austria,Styria,Fair,Online
+1909,CUS-001909,Germany,North Rhine-Westphalia,Fair,Installer Referral
+1910,CUS-001910,Netherlands,North Holland,Poor,Partner Bank
+1911,CUS-001911,Germany,Berlin,Excellent,Marketplace
+1912,CUS-001912,Germany,Hesse,Good,Online
+1913,CUS-001913,Germany,Lower Saxony,Fair,Marketplace
+1914,CUS-001914,Germany,Baden-Württemberg,Good,Marketplace
+1915,CUS-001915,Germany,Berlin,Good,Online
+1916,CUS-001916,Germany,Bavaria,Poor,Installer Referral
+1917,CUS-001917,Germany,Lower Saxony,Good,Installer Referral
+1918,CUS-001918,Germany,Baden-Württemberg,Excellent,Online
+1919,CUS-001919,Germany,Berlin,Good,Partner Bank
+1920,CUS-001920,Netherlands,North Holland,Excellent,Installer Referral
+1921,CUS-001921,Germany,Berlin,Excellent,Online
+1922,CUS-001922,Austria,Styria,Fair,Marketplace
+1923,CUS-001923,Austria,Vienna,Excellent,Installer Referral
+1924,CUS-001924,Germany,Bavaria,Fair,Online
+1925,CUS-001925,Germany,Bavaria,Fair,Online
+1926,CUS-001926,Austria,Styria,Good,Installer Referral
+1927,CUS-001927,Netherlands,North Holland,Good,Direct Sales
+1928,CUS-001928,Germany,North Rhine-Westphalia,Excellent,Direct Sales
+1929,CUS-001929,Germany,Hesse,Fair,Installer Referral
+1930,CUS-001930,Germany,Hesse,Excellent,Direct Sales
+1931,CUS-001931,Germany,Hesse,Fair,Installer Referral
+1932,CUS-001932,Germany,Berlin,Fair,Online
+1933,CUS-001933,Germany,Lower Saxony,Poor,Online
+1934,CUS-001934,Germany,Berlin,Fair,Online
+1935,CUS-001935,Germany,North Rhine-Westphalia,Excellent,Installer Referral
+1936,CUS-001936,Austria,Styria,Fair,Installer Referral
+1937,CUS-001937,Germany,Berlin,Good,Installer Referral
+1938,CUS-001938,Germany,Hesse,Good,Installer Referral
+1939,CUS-001939,Austria,Vienna,Excellent,Online
+1940,CUS-001940,Germany,Berlin,Fair,Installer Referral
+1941,CUS-001941,Austria,Vienna,Excellent,Installer Referral
+1942,CUS-001942,Germany,Baden-Württemberg,Poor,Online
+1943,CUS-001943,Germany,North Rhine-Westphalia,Excellent,Online
+1944,CUS-001944,Austria,Vienna,Good,Installer Referral
+1945,CUS-001945,Germany,North Rhine-Westphalia,Fair,Installer Referral
+1946,CUS-001946,Germany,Berlin,Fair,Online
+1947,CUS-001947,Germany,Hesse,Fair,Installer Referral
+1948,CUS-001948,Germany,Baden-Württemberg,Excellent,Online
+1949,CUS-001949,Austria,Vienna,Good,Direct Sales
+1950,CUS-001950,Germany,Berlin,Good,Online
+1951,CUS-001951,Germany,Berlin,Fair,Direct Sales
+1952,CUS-001952,Austria,Upper Austria,Good,Installer Referral
+1953,CUS-001953,Netherlands,South Holland,Excellent,Installer Referral
+1954,CUS-001954,Germany,North Rhine-Westphalia,Good,Installer Referral
+1955,CUS-001955,Germany,Baden-Württemberg,Excellent,Installer Referral
+1956,CUS-001956,Germany,North Rhine-Westphalia,Good,Installer Referral
+1957,CUS-001957,Germany,Hesse,Good,Installer Referral
+1958,CUS-001958,Germany,Baden-Württemberg,Poor,Installer Referral
+1959,CUS-001959,Germany,Lower Saxony,Fair,Direct Sales
+1960,CUS-001960,Germany,North Rhine-Westphalia,Good,Installer Referral
+1961,CUS-001961,Austria,Styria,Excellent,Online
+1962,CUS-001962,Austria,Styria,Poor,Direct Sales
+1963,CUS-001963,Germany,North Rhine-Westphalia,Poor,Installer Referral
+1964,CUS-001964,Germany,Hesse,Good,Installer Referral
+1965,CUS-001965,Germany,Berlin,Good,Installer Referral
+1966,CUS-001966,Germany,North Rhine-Westphalia,Poor,Installer Referral
+1967,CUS-001967,Germany,North Rhine-Westphalia,Excellent,Partner Bank
+1968,CUS-001968,Austria,Styria,Poor,Direct Sales
+1969,CUS-001969,Germany,Bavaria,Fair,Partner Bank
+1970,CUS-001970,Germany,North Rhine-Westphalia,Good,Partner Bank
+1971,CUS-001971,Germany,Hesse,Good,Online
+1972,CUS-001972,Germany,Berlin,Good,Partner Bank
+1973,CUS-001973,Austria,Upper Austria,Good,Online
+1974,CUS-001974,Germany,Hesse,Fair,Installer Referral
+1975,CUS-001975,Austria,Upper Austria,Poor,Installer Referral
+1976,CUS-001976,Germany,Lower Saxony,Fair,Marketplace
+1977,CUS-001977,Germany,Hesse,Excellent,Partner Bank
+1978,CUS-001978,Germany,Hesse,Good,Online
+1979,CUS-001979,Germany,Hesse,Good,Online
+1980,CUS-001980,Germany,Baden-Württemberg,Fair,Installer Referral
+1981,CUS-001981,Germany,North Rhine-Westphalia,Good,Installer Referral
+1982,CUS-001982,Germany,Bavaria,Good,Online
+1983,CUS-001983,Germany,Bavaria,Fair,Marketplace
+1984,CUS-001984,Germany,Bavaria,Good,Online
+1985,CUS-001985,Germany,Berlin,Good,Installer Referral
+1986,CUS-001986,Austria,Styria,Fair,Installer Referral
+1987,CUS-001987,Germany,North Rhine-Westphalia,Poor,Partner Bank
+1988,CUS-001988,Austria,Upper Austria,Excellent,Installer Referral
+1989,CUS-001989,Austria,Upper Austria,Poor,Direct Sales
+1990,CUS-001990,Austria,Vienna,Good,Online
+1991,CUS-001991,Austria,Vienna,Poor,Installer Referral
+1992,CUS-001992,Austria,Vienna,Good,Online
+1993,CUS-001993,Austria,Upper Austria,Fair,Online
+1994,CUS-001994,Austria,Upper Austria,Fair,Online
+1995,CUS-001995,Netherlands,South Holland,Good,Online
+1996,CUS-001996,Germany,Baden-Württemberg,Excellent,Direct Sales
+1997,CUS-001997,Germany,Berlin,Excellent,Direct Sales
+1998,CUS-001998,Austria,Upper Austria,Good,Online
+1999,CUS-001999,Austria,Styria,Good,Installer Referral
+2000,CUS-002000,Germany,Bavaria,Poor,Installer Referral
