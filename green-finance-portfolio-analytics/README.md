@@ -1,0 +1,27 @@
+# Project: Residential Solar Asset & Portfolio Analytics
+
+# The Mission
+Optimizing the flow of capital towards renewable energy by providing data-driven insights into a €116M Green Loan Portfolio . This project bridges the gap between Climate Tech operations and Sustainable Finance , ensuring liquidity for continued decarbonization.
+
+# Core Deliverables
+Climate Finance Dashboard (Qlik Sense): Real-time monitoring of €1.56M in outstanding solar principal with a 5.96% Weighted Average Yield .
+
+Asset Risk Analysis: Advanced DPD (Days Past Due) logic identifying a €1.14M risk concentration in late-stage arrears to protect reinvestment cycles.
+
+Deployment Velocity: YoY (Year-over-Year) growth analysis of solar originations, tracking the expansion of residential solar assets across European markets.
+
+Automated Data Pipeline: PostgreSQL-based architecture for reconciling complex split-payments and verifying asset-level financial health.
+
+# Technical Stack
+BI Engine: Qlik Sense (Advanced Set Analysis, Variable-based Scenario Modeling).
+
+Data Warehouse: PostgreSQL (Complex Joins, CTEs, and Window Functions for aging logic).
+
+Methodology: Vintage Cohort Analysis, YoY Growth metrics, and Risk-Adjusted Return modeling.
+
+# Strategic Impact
+Risk Mitigation: Identified that 73% of outstanding principal is concentrated in the 90+ DPD bucket, triggering a pivot towards automated collection strategies.
+
+Geographic Diversification: Spotted a 45% regional concentration , recommending a strategic shift to new markets to balance economic and weather-related exposure.
+
+Future Roadmap: Proposed Predictive Default Modeling to flag "At-Risk" solar assets, ensuring the long-term scalability of the green financing vehicle.
